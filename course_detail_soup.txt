@@ -1,0 +1,1436 @@
+<html lang="th">
+ <head>
+  <script async="" data-id="CEAP82RC77UA35R4LN70" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTExZjAwMWE5MQ.js" type="text/javascript">
+  </script>
+  <script async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CEAP82RC77UA35R4LN70&amp;lib=ttq" type="text/javascript">
+  </script>
+  <script async="" src="https://analytics.tiktok.com/i18n/pixel/static/identify_dcd46a4d.js" type="text/javascript">
+  </script>
+  <script async="" data-id="CEAP82RC77UA35R4LN70" src="https://analytics.tiktok.com/i18n/pixel/static/main.MTExZjAwMWE5MQ.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.clarity.ms/s/0.7.32/clarity.js">
+  </script>
+  <script async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CEAP82RC77UA35R4LN70&amp;lib=ttq" type="text/javascript">
+  </script>
+  <script async="" src="https://connect.facebook.net/signals/config/282987412467417?v=2.9.156&amp;r=stable&amp;domain=futureskill.co&amp;hme=c3a545c63044e8e9102d4f32d84a1137594d024f28e801d670bc76dc5c075575&amp;ex_m=67%2C112%2C99%2C103%2C58%2C3%2C93%2C66%2C15%2C91%2C84%2C49%2C51%2C158%2C161%2C172%2C168%2C169%2C171%2C28%2C94%2C50%2C73%2C170%2C153%2C156%2C165%2C166%2C173%2C121%2C14%2C48%2C178%2C177%2C123%2C17%2C33%2C38%2C1%2C41%2C62%2C63%2C64%2C68%2C88%2C16%2C13%2C90%2C87%2C86%2C100%2C102%2C37%2C101%2C29%2C25%2C154%2C157%2C130%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C54%2C59%2C61%2C71%2C95%2C26%2C72%2C8%2C7%2C76%2C46%2C20%2C97%2C96%2C9%2C19%2C18%2C81%2C53%2C79%2C32%2C70%2C0%2C89%2C31%2C78%2C83%2C45%2C44%2C82%2C36%2C4%2C85%2C77%2C42%2C39%2C34%2C80%2C2%2C35%2C60%2C40%2C98%2C43%2C75%2C65%2C104%2C57%2C56%2C30%2C92%2C55%2C52%2C47%2C74%2C69%2C23%2C105">
+  </script>
+  <script async="" src="https://connect.facebook.net/en_US/fbevents.js">
+  </script>
+  <script async="" src="https://static.hotjar.com/c/hotjar-1064123.js?sv=7" type="text/javascript">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-D2ETQ4GNZ4&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" id="www-widgetapi-script" src="https://www.youtube.com/s/player/17fd9675/www-widgetapi.vflset/www-widgetapi.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.clarity.ms/tag/iticmwrviq">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-622211140&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" src="https://www.clarity.ms/tag/iticmwrviq">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WM25T4Q&amp;gtm_auth=&amp;gtm_preview=&amp;gtm_cookies_win=x">
+  </script>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];
+        w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js', });
+        var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+        j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'&gtm_auth=&gtm_preview=&gtm_cookies_win=x';
+        f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-WM25T4Q');
+  </script>
+  <script async="" data-site-id="04bc3ade11f95b76a332" data-use-array-params="true" id="cio-tracker" src="https://assets.customer.io/assets/track.js">
+  </script>
+  <script async="" crossorigin="anonymous" integrity="sha384-+EO59vL/X7v6VE2s6/F4HxfHlK0nDUVWKVg8K9oUlvffAeeaShVBmbORTC2D3UF+" src="https://cdn.amplitude.com/libs/amplitude-8.17.0-min.gz.js" type="text/javascript">
+  </script>
+  <script id="my-script" type="text/javascript">
+   (function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
+                ;r.type="text/javascript"
+                ;r.integrity="sha384-+EO59vL/X7v6VE2s6/F4HxfHlK0nDUVWKVg8K9oUlvffAeeaShVBmbORTC2D3UF+"
+                ;r.crossOrigin="anonymous";r.async=true
+                ;r.src="https://cdn.amplitude.com/libs/amplitude-8.17.0-min.gz.js"
+                ;r.onload=function(){if(!e.amplitude.runQueuedFunctions){
+                console.log("[Amplitude] Error: could not load SDK")}}
+                ;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
+                ;function s(e,t){e.prototype[t]=function(){
+                this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+                var o=function(){this._q=[];return this}
+                ;var a=["add","append","clearAll","prepend","set","setOnce","unset","preInsert","postInsert","remove"]
+                ;for(var c=0;c<a.length;c++){s(o,a[c])}n.Identify=o;var u=function(){this._q=[]
+                ;return this}
+                ;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+                ;for(var p=0;p<l.length;p++){s(u,l[p])}n.Revenue=u
+                ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","enableTracking","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","groupIdentify","onInit","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
+                ;function v(e){function t(t){e[t]=function(){
+                e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+                for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+                e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+                ;if(!Object.prototype.hasOwnProperty.call(n._iq,e)){n._iq[e]={_q:[]};v(n._iq[e])
+                }return n._iq[e]};e.amplitude=n})(window,document);
+              
+                amplitude.getInstance().init('a9f678a97b64dcd46d85d0d733fbb262');
+  </script>
+  <script id="customerIO" type="text/javascript">
+   var _cio = _cio || [];
+                (function() {
+                    var a,b,c;a=function(f){return function(){_cio.push([f].
+                    concat(Array.prototype.slice.call(arguments,0)))}};b=["load","identify",
+                    "sidentify","track","page"];for(c=0;c<b.length;c++){_cio[b[c]]=a(b[c])};
+                    var t = document.createElement('script'),
+                        s = document.getElementsByTagName('script')[0];
+                    t.async = true;
+                    t.id    = 'cio-tracker';
+                    t.setAttribute('data-site-id', '04bc3ade11f95b76a332');
+                    t.setAttribute('data-use-array-params', 'true');
+                    t.src = 'https://assets.customer.io/assets/track.js';
+                    s.parentNode.insertBefore(t, s);
+                })();
+  </script>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <meta charset="utf-8"/>
+  <title>
+   FutureSkill | แพลตฟอร์มการเรียนออนไลน์สำหรับทักษะแห่งอนาคต
+  </title>
+  <meta content="width=device-width, initial-scale=0.8" name="viewport"/>
+  <meta content="3" name="next-head-count"/>
+  <link as="style" href="/_next/static/css/d8c6504fdff7d4e2.css" rel="preload"/>
+  <link data-n-g="" href="/_next/static/css/d8c6504fdff7d4e2.css" rel="stylesheet"/>
+  <link as="style" href="/_next/static/css/36840340f3f01bb9.css" rel="preload"/>
+  <link data-n-p="" href="/_next/static/css/36840340f3f01bb9.css" rel="stylesheet"/>
+  <noscript data-n-css="">
+  </noscript>
+  <script defer="" nomodule="" src="/_next/static/chunks/polyfills-5cd94c89d3acac5f.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/webpack-dbf7192b6aaf1182.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/framework-568b840ecff66744.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/main-9daaab2ab836e335.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/pages/_app-703677a8bec292b4.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/129-a5f783b67e3c1146.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/9870-a4fb9f964c906fea.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/368-35b63def247f6e46.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/3055-3aa64649975e4f41.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/688-d5c294623d339aa6.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/326-0a56bbd287af7fd7.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/pages/course/detail/%5BcourseId%5D-effd51056bbb1612.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/nNb9_i0SZBZsCJfi_JSd1/_buildManifest.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/nNb9_i0SZBZsCJfi_JSd1/_ssgManifest.js" type="text/javascript">
+  </script>
+  <script defer="" src="/_next/static/nNb9_i0SZBZsCJfi_JSd1/_middlewareManifest.js" type="text/javascript">
+  </script>
+  <style data-emotion-css="">
+  </style>
+  <style data-href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=Sarabun:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap">
+   @font-face{font-family:'Poppins';font-style:italic;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE3tG.woff) format('woff')}@font-face{font-family:'Poppins';font-style:italic;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1plEw.woff) format('woff')}@font-face{font-family:'Poppins';font-style:italic;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21llEw.woff) format('woff')}@font-face{font-family:'Poppins';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLedA.woff) format('woff')}@font-face{font-family:'Poppins';font-style:italic;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hlEw.woff) format('woff')}@font-face{font-family:'Poppins';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19lEw.woff) format('woff')}@font-face{font-family:'Poppins';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15lEw.woff) format('woff')}@font-face{font-family:'Poppins';font-style:italic;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111lEw.woff) format('woff')}@font-face{font-family:'Poppins';font-style:italic;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xlEw.woff) format('woff')}@font-face{font-family:'Poppins';font-style:normal;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTedA.woff) format('woff')}@font-face{font-family:'Poppins';font-style:normal;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1g.woff) format('woff')}@font-face{font-family:'Poppins';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1g.woff) format('woff')}@font-face{font-family:'Poppins';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJM.woff) format('woff')}@font-face{font-family:'Poppins';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1g.woff) format('woff')}@font-face{font-family:'Poppins';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1g.woff) format('woff')}@font-face{font-family:'Poppins';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1g.woff) format('woff')}@font-face{font-family:'Poppins';font-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1g.woff) format('woff')}@font-face{font-family:'Poppins';font-style:normal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1g.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:italic;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVnJx26TKEr37c9aBBx_nwP.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:italic;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxUl0s7Q.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:italic;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxNl4s7Q.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVhJx26TKEr37c9aBBJmQ.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:italic;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxbl8s7Q.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxQlgs7Q.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxJlks7Q.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:italic;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxOlos7Q.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:normal;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVhJx26TKEr37c9YHZJmQ.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:normal;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YNpoul8.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YL5rul8.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVjJx26TKEr37c9WBE.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YOZqul8.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YMptul8.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YK5sul8.woff) format('woff')}@font-face{font-family:'Sarabun';font-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YLJvul8.woff) format('woff')}@font-face{font-family:'Poppins';font-style:italic;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE0tMMPKhSkFEkm8.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:italic;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE0tCMPKhSkFE.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:italic;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1pVGdeOYktMqlap.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:italic;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1pVF9eOYktMqg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:italic;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21lVGdeOYktMqlap.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:italic;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21lVF9eOYktMqg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:italic;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hVGdeOYktMqlap.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:italic;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hVF9eOYktMqg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19VGdeOYktMqlap.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19VF9eOYktMqg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:italic;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111VGdeOYktMqlap.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:italic;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111VF9eOYktMqg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:italic;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xVGdeOYktMqlap.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:italic;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xVF9eOYktMqg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:normal;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTufntAOvWDSHFF.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:normal;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTucHtAOvWDSA.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:normal;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_Z1JlFd2JQEl8qw.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:normal;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_Z1xlFd2JQEk.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1JlFd2JQEl8qw.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1JlFd2JQEl8qw.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4Z1JlFd2JQEl8qw.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Poppins';font-style:normal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5Z1JlFd2JQEl8qw.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Poppins';font-style:normal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5Z1xlFd2JQEk.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:italic;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVnJx26TKEr37c9aBBx_kwfzg38pQhMruE.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:italic;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVnJx26TKEr37c9aBBx_kwEzg38pQhMruE.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:italic;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVnJx26TKEr37c9aBBx_kwFzg38pQhMruE.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:italic;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVnJx26TKEr37c9aBBx_kwLzg38pQhM.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:italic;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxUl0c_SjTjQJElti5.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:italic;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxUl0c5ijTjQJElti5.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:italic;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxUl0c5yjTjQJElti5.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:italic;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxUl0c6SjTjQJElg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:italic;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxNl4c_SjTjQJElti5.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:italic;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxNl4c5ijTjQJElti5.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:italic;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxNl4c5yjTjQJElti5.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:italic;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxNl4c6SjTjQJElg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVhJx26TKEr37c9aBB5iXwJxArepzhN.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVhJx26TKEr37c9aBB5knwJxArepzhN.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVhJx26TKEr37c9aBB5k3wJxArepzhN.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVhJx26TKEr37c9aBB5nXwJxArepw.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:italic;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxbl8c_SjTjQJElti5.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:italic;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxbl8c5ijTjQJElti5.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:italic;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxbl8c5yjTjQJElti5.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:italic;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxbl8c6SjTjQJElg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxQlgc_SjTjQJElti5.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxQlgc5ijTjQJElti5.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxQlgc5yjTjQJElti5.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxQlgc6SjTjQJElg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxJlkc_SjTjQJElti5.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxJlkc5ijTjQJElti5.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxJlkc5yjTjQJElti5.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxJlkc6SjTjQJElg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:italic;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxOloc_SjTjQJElti5.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:italic;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxOloc5ijTjQJElti5.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:italic;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxOloc5yjTjQJElti5.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:italic;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVkJx26TKEr37c9aBBxOloc6SjTjQJElg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:normal;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVhJx26TKEr37c9YHZ5iXwJxArepzhN.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:normal;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVhJx26TKEr37c9YHZ5knwJxArepzhN.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:normal;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVhJx26TKEr37c9YHZ5k3wJxArepzhN.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:normal;font-weight:100;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVhJx26TKEr37c9YHZ5nXwJxArepw.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:normal;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YNpoik8s6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:normal;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YNpoilQs6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:normal;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YNpoilUs6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:normal;font-weight:200;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YNpoilss6yLUrwA.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YL5rik8s6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YL5rilQs6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YL5rilUs6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YL5rilss6yLUrwA.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVjJx26TKEr37c9aAFJn3YO5gjupg.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVjJx26TKEr37c9aBpJn3YO5gjupg.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVjJx26TKEr37c9aBtJn3YO5gjupg.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVjJx26TKEr37c9aBVJn3YO5gg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YOZqik8s6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YOZqilQs6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YOZqilUs6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YOZqilss6yLUrwA.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YMptik8s6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YMptilQs6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YMptilUs6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YMptilss6yLUrwA.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YK5sik8s6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YK5silQs6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YK5silUs6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YK5silss6yLUrwA.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sarabun';font-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YLJvik8s6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0E01-0E5B,U+200C-200D,U+25CC}@font-face{font-family:'Sarabun';font-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YLJvilQs6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Sarabun';font-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YLJvilUs6yLUrwB0lw.woff2) format('woff2');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Sarabun';font-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/sarabun/v15/DtVmJx26TKEr37c9YLJvilss6yLUrwA.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+  </style>
+  <style id="_goober">
+   @keyframes go2264125279{from{transform:scale(0) rotate(45deg);opacity:0;}to{transform:scale(1) rotate(45deg);opacity:1;}}@keyframes go3020080000{from{transform:scale(0);opacity:0;}to{transform:scale(1);opacity:1;}}@keyframes go463499852{from{transform:scale(0) rotate(90deg);opacity:0;}to{transform:scale(1) rotate(90deg);opacity:1;}}@keyframes go1268368563{from{transform:rotate(0deg);}to{transform:rotate(360deg);}}@keyframes go1310225428{from{transform:scale(0) rotate(45deg);opacity:0;}to{transform:scale(1) rotate(45deg);opacity:1;}}@keyframes go651618207{0%{height:0;width:0;opacity:0;}40%{height:0;width:6px;opacity:1;}100%{opacity:1;height:10px;}}@keyframes go901347462{from{transform:scale(0.6);opacity:0.4;}to{transform:scale(1);opacity:1;}}.go4109123758{z-index:9999;}.go4109123758 > *{pointer-events:auto;}
+  </style>
+  <style data-emotion="css" data-s="">
+  </style>
+  <script async="" charset="utf8" src="https://www.youtube.com/iframe_api" type="text/javascript">
+  </script>
+  <script async="" src="https://cookiecdn.com/cwc.js">
+  </script>
+  <style data-emotion="css 1m7sdco" data-s="">
+   .css-1m7sdco{margin-top:1.25rem;margin-bottom:1.25rem;}
+  </style>
+  <style data-emotion="css 1dxup6h" data-s="">
+   .css-1dxup6h{font-size:24px;line-height:36px;font-weight:600;margin-top:1.25rem;margin-bottom:1.25rem;}
+  </style>
+  <style data-emotion="css 1hl83va" data-s="">
+   .css-1hl83va{margin-bottom:0.75rem;}
+  </style>
+  <style data-emotion="css 1y8ts4k" data-s="">
+   .css-1y8ts4k{font-size:16px;line-height:22px;font-weight:600;margin-bottom:0.75rem;}
+  </style>
+  <style data-emotion="css 1a7e1yb" data-s="">
+   .css-1a7e1yb{margin-top:0.25rem;}
+  </style>
+  <style data-emotion="css 3yiziz" data-s="">
+   .css-3yiziz{font-size:16px;line-height:22px;font-weight:600;margin-top:0.25rem;}
+  </style>
+  <style data-emotion="css 19ne8l1" data-s="">
+   .css-19ne8l1{font-size:12px;line-height:18px;font-weight:400;}
+  </style>
+  <style data-emotion="css 1wme6vs" data-s="">
+   .css-1wme6vs{font-size:16px;line-height:24px;font-weight:400;}
+  </style>
+  <style data-emotion="css 1gok8e8" data-s="">
+   .css-1gok8e8{margin-bottom:0.5rem;}
+  </style>
+  <style data-emotion="css 12d8xs5" data-s="">
+   .css-12d8xs5{font-size:20px;line-height:30px;font-weight:500;margin-bottom:0.5rem;}
+  </style>
+  <style data-emotion="css 1hl83va" data-s="">
+   .css-1hl83va{margin-bottom:0.75rem;}
+  </style>
+  <style data-emotion="css iw9l1r" data-s="">
+   .css-iw9l1r{font-size:16px;line-height:22px;font-weight:600;margin-bottom:0.75rem;}
+  </style>
+  <style data-emotion="css 1hl83va" data-s="">
+   .css-1hl83va{margin-bottom:0.75rem;}
+  </style>
+  <style data-emotion="css 1sin7g5" data-s="">
+   .css-1sin7g5{font-size:14px;line-height:20px;font-weight:400;margin-bottom:0.75rem;}
+  </style>
+  <style data-emotion="css 1gok8e8" data-s="">
+   .css-1gok8e8{margin-bottom:0.5rem;}
+  </style>
+  <style data-emotion="css 12d8xs5" data-s="">
+   .css-12d8xs5{font-size:20px;line-height:30px;font-weight:500;margin-bottom:0.5rem;}
+  </style>
+  <style data-emotion="css 1hl83va" data-s="">
+   .css-1hl83va{margin-bottom:0.75rem;}
+  </style>
+  <style data-emotion="css owwvho" data-s="">
+   .css-owwvho{font-size:20px;line-height:30px;font-weight:500;margin-bottom:0.75rem;}
+  </style>
+  <style data-emotion="css 1yjzhlw" data-s="">
+   .css-1yjzhlw{--tw-text-opacity:1;color:rgba(99, 113, 139, var(--tw-text-opacity));margin-bottom:0.75rem;}
+  </style>
+  <style data-emotion="css 1dn0f5q" data-s="">
+   .css-1dn0f5q{font-size:14px;line-height:19px;font-weight:600;--tw-text-opacity:1;color:rgba(99, 113, 139, var(--tw-text-opacity));margin-bottom:0.75rem;}
+  </style>
+  <style data-emotion="css kv4m55" data-s="">
+   .css-kv4m55{--tw-text-opacity:1;color:rgba(236, 0, 85, var(--tw-text-opacity));}
+  </style>
+  <style data-emotion="css 1nuloqb" data-s="">
+   .css-1nuloqb{font-size:36px;line-height:50px;font-weight:600;--tw-text-opacity:1;color:rgba(236, 0, 85, var(--tw-text-opacity));}
+  </style>
+  <style data-emotion="css 1hl83va" data-s="">
+   .css-1hl83va{margin-bottom:0.75rem;}
+  </style>
+  <style data-emotion="css d1s1um" data-s="">
+   .css-d1s1um{font-size:14px;line-height:19px;font-weight:600;margin-bottom:0.75rem;}
+  </style>
+  <style data-emotion="css 19ne8l1" data-s="">
+   .css-19ne8l1{font-size:12px;line-height:18px;font-weight:400;}
+  </style>
+  <style data-emotion="css 19ne8l1" data-s="">
+   .css-19ne8l1{font-size:12px;line-height:18px;font-weight:400;}
+  </style>
+  <script async="" data-cwcid="p9qc9VwBXSqKp4mkFnt3ZwvT" id="cookieWow" src="https://cookiecdn.com/configs/p9qc9VwBXSqKp4mkFnt3ZwvT">
+  </script>
+  <script async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/622211140/?random=1715314323890&amp;cv=11&amp;fst=1715314323890&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be4580v9130404723z8810015193za201&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=1536&amp;u_h=864&amp;url=https%3A%2F%2Ffutureskill.co%2Fcourse%2Fdetail%2F1014&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=FutureSkill%20%7C%20%E0%B9%81%E0%B8%9E%E0%B8%A5%E0%B8%95%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%AA%E0%B8%B3&amp;npa=0&amp;pscdl=noapi&amp;auid=949255993.1715314324&amp;uaa=x86&amp;uab=64&amp;uafvl=Chromium%3B124.0.6367.158%7CGoogle%2520Chrome%3B124.0.6367.158%7CNot-A.Brand%3B99.0.0.0&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=10.0.0&amp;uaw=0&amp;fdr=QA&amp;rfmt=3&amp;fmt=4" type="text/javascript">
+  </script>
+  <style type="text/css">
+   div.eapps-widget{position:relative}div.eapps-widget.eapps-widget-show-toolbar:before{position:absolute;content:"";display:block;bottom:0;top:0;left:0;right:0;pointer-events:none;border:1px solid transparent;transition:border .3s ease;z-index:1}.eapps-widget-toolbar{position:absolute;top:-32px;left:0;right:0;display:block;z-index:99999;padding-bottom:4px;transition:all .3s ease;pointer-events:none;opacity:0}.eapps-widget:hover .eapps-widget-toolbar{opacity:1;pointer-events:auto}.eapps-widget-toolbar a{text-decoration:none;box-shadow:none!important}.eapps-widget-toolbar-panel{border-radius:6px;background-color:#222;color:#fff;display:-ms-inline-flexbox;display:inline-flex;-ms-flex-align:center;align-items:center;top:0;position:relative;transition:all .3s ease;opacity:0;overflow:hidden;-webkit-backface-visibility:hidden;backface-visibility:hidden;box-shadow:0 0 0 1px hsla(0,0%,100%,.2);height:28px}.eapps-widget:hover .eapps-widget-toolbar-panel{opacity:1}.eapps-widget-toolbar-panel-wrapper{width:100%;position:relative}.eapps-widget-toolbar-panel-only-you{position:absolute;top:-24px;font-size:11px;line-height:14px;color:#9c9c9c;padding:5px 4px}.eapps-widget-toolbar-panel-logo{width:28px;height:28px;border-right:1px solid hsla(0,0%,100%,.2);display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center}.eapps-widget-toolbar-panel-logo svg{display:block;width:15px;height:15px;fill:#f93262}.eapps-widget-toolbar-panel-edit{font-size:12px;font-weight:400;line-height:14px;display:-ms-inline-flexbox;display:inline-flex;-ms-flex-align:center;align-items:center;padding:9px;border-right:1px solid hsla(0,0%,100%,.2);color:#fff;text-decoration:none}.eapps-widget-toolbar-panel-edit-icon{width:14px;height:14px;margin-right:8px}.eapps-widget-toolbar-panel-edit-icon svg{display:block;width:100%;height:100%;fill:#fff}.eapps-widget-toolbar-panel-views{display:-ms-inline-flexbox;display:inline-flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}.eapps-widget-toolbar-panel-views-label{font-size:12px;font-weight:400;line-height:14px;margin-left:8px}.eapps-widget-toolbar-panel-views-bar{display:-ms-inline-flexbox;display:inline-flex;width:70px;height:3px;border-radius:2px;margin-left:8px;background-color:hsla(0,0%,100%,.3)}.eapps-widget-toolbar-panel-views-bar-inner{border-radius:2px;background-color:#4ad504}.eapps-widget-toolbar-panel-views-green .eapps-widget-toolbar-panel-views-bar-inner{background-color:#4ad504}.eapps-widget-toolbar-panel-views-red .eapps-widget-toolbar-panel-views-bar-inner{background-color:#ff4734}.eapps-widget-toolbar-panel-views-orange .eapps-widget-toolbar-panel-views-bar-inner{background-color:#ffb400}.eapps-widget-toolbar-panel-views-percent{display:-ms-inline-flexbox;display:inline-flex;margin-left:8px;margin-right:8px;font-size:12px;font-weight:400;line-height:14px}.eapps-widget-toolbar-panel-views-get-more{padding:9px 16px;background-color:#f93262;color:#fff;font-size:12px;font-weight:400;border-radius:0 6px 6px 0}.eapps-widget-toolbar-panel-share{position:absolute;top:0;display:inline-block;margin-left:8px;width:83px;height:28px;padding-bottom:4px;box-sizing:content-box!important}.eapps-widget-toolbar-panel-share:hover .eapps-widget-toolbar-panel-share-block{opacity:1;pointer-events:all}.eapps-widget-toolbar-panel-share-button{padding:0 18px;height:28px;background-color:#1c91ff;color:#fff;font-size:12px;font-weight:400;border-radius:6px;position:absolute;top:0;display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;cursor:default;-ms-flex-align:center;align-items:center}.eapps-widget-toolbar-panel-share-button svg{display:inline-block;margin-right:6px;fill:#fff;position:relative;top:-1px}.eapps-widget-toolbar-panel-share-block{position:absolute;background:#fff;border:1px solid hsla(0,0%,7%,.1);border-radius:10px;width:209px;top:32px;transform:translateX(-63px);opacity:0;pointer-events:none;transition:all .3s ease;box-shadow:0 4px 6px rgba(0,0,0,.05)}.eapps-widget-toolbar-panel-share-block:hover{opacity:1;pointer-events:all}.eapps-widget-toolbar-panel-share-block-text{color:#111;font-size:15px;font-weight:400;padding:12px 0;text-align:center}.eapps-widget-toolbar-panel-share-block-text-icon{padding-bottom:4px}.eapps-widget-toolbar-panel-share-block-actions{display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;border-top:1px solid hsla(0,0%,7%,.1)}.eapps-widget-toolbar-panel-share-block-actions-item{width:33.333333%;display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center;height:39px;transition:all .3s ease;background-color:transparent}.eapps-widget-toolbar-panel-share-block-actions-item:hover{background-color:#fafafa}.eapps-widget-toolbar-panel-share-block-actions-item a{width:100%;height:100%;display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}.eapps-widget-toolbar-panel-share-block-actions-item-icon{width:16px;height:16px;display:block}.eapps-widget-toolbar-panel-share-block-actions-item-facebook .eapps-widget-toolbar-panel-share-block-actions-item-icon{fill:#3c5a9b}.eapps-widget-toolbar-panel-share-block-actions-item-twitter .eapps-widget-toolbar-panel-share-block-actions-item-icon{fill:#1ab2e8}.eapps-widget-toolbar-panel-share-block-actions-item-google .eapps-widget-toolbar-panel-share-block-actions-item-icon{fill:#dd4b39}.eapps-widget-toolbar-panel-share-block-actions-item:not(:last-child){border-right:1px solid hsla(0,0%,7%,.1)}
+  </style>
+  <link as="script" href="/_next/static/chunks/pages/index-7341133049114ca3.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/0c428ae2-86b64fc1a3f5c6ce.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/98ea7ec2-743b0ca52d9ee24c.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/95b64a6e-518ec7e267df743b.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/1911-db8da293d189ff95.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/719-5f17f9d9fbb348cf.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/1651-161b00a7bbdf9b58.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/8717-72d8a1786f303ab0.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/9725-e20cd7f9bc6d874d.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/4492-b8951f9e01daa465.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/pages/yearly-80de6ab56c37489a.js" rel="prefetch"/>
+  <link crossorigin="" href="https://core.service.elfsight.com" rel="preconnect"/>
+  <link crossorigin="" href="https://static.elfsight.com" rel="preconnect"/>
+  <link crossorigin="" href="https://service-reviews-ultimate.elfsight.com" rel="preconnect"/>
+  <link crossorigin="" href="https://storage.elfsight.com" rel="preconnect"/>
+  <script async="" defer="" src="https://cdn.popupsmart.com/accounts/6450/199262/1/main.js" type="module">
+  </script>
+  <script async="" charset="utf-8" src="https://script.hotjar.com/modules.1a30a0a67c3c23c13060.js">
+  </script>
+  <script charset="UTF-8" defer="defer" src="https://static.elfsight.com/apps/line-chat/stable/b284708450c08cb75303ce37c122fdfb47194539/app/lineChat.js">
+  </script>
+  <style data-styled="active" data-styled-version="5.3.11">
+  </style>
+  <link as="script" href="/_next/static/chunks/pages/instructor/detail/%5BinstructorId%5D-e324b3f87f53b427.js" rel="prefetch"/>
+  <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400;700&amp;family=Poppins:wght@400;700&amp;display=swap" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <noscript>
+   <iframe height="0" id="tag-manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WM25T4Q&amp;gtm_auth=&amp;gtm_preview=&amp;gtm_cookies_win=x" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <div data-reactroot="" id="__next">
+   <div class="false h-0 transition-all duration-500 w-full relative z-30 top-0">
+    <div class="h-0 opacity-0 hidden flex fixed gap-4 w-full justify-center items-center min-h-[80px] p-5">
+     <div class="flex false justify-center gap-x-4 xl:gap-10 w-fit sm:min-h-20 false md:ml-0">
+      <div class="inline-flex justify-center items-center gap-2 lg:gap-4" id="TextSection">
+       <span class="w-[1px] h-[21px] hidden">
+       </span>
+      </div>
+      <div class="inline-flex items-center justify-center gap-4" id="buttonSection">
+      </div>
+     </div>
+     <div class="mb-auto xl:mb-0 inline-flex min-w-8 min-h-8 w-8 h-8 bg-[#00000039] rounded-full cursor-pointer">
+      <svg class="self-center mx-auto text-white" fill="currentColor" fill-rule="evenodd" height="1em" stroke="currentColor" stroke-width="0" viewbox="0 0 1024 1024" width="1em" xmlns="http://www.w3.org/2000/svg">
+       <path d="M799.855 166.312c.023.007.043.018.084.059l57.69 57.69c.041.041.052.06.059.084a.118.118 0 0 1 0 .069c-.007.023-.018.042-.059.083L569.926 512l287.703 287.703c.041.04.052.06.059.083a.118.118 0 0 1 0 .07c-.007.022-.018.042-.059.083l-57.69 57.69c-.041.041-.06.052-.084.059a.118.118 0 0 1-.069 0c-.023-.007-.042-.018-.083-.059L512 569.926 224.297 857.629c-.04.041-.06.052-.083.059a.118.118 0 0 1-.07 0c-.022-.007-.042-.018-.083-.059l-57.69-57.69c-.041-.041-.052-.06-.059-.084a.118.118 0 0 1 0-.069c.007-.023.018-.042.059-.083L454.073 512 166.371 224.297c-.041-.04-.052-.06-.059-.083a.118.118 0 0 1 0-.07c.007-.022.018-.042.059-.083l57.69-57.69c.041-.041.06-.052.084-.059a.118.118 0 0 1 .069 0c.023.007.042.018.083.059L512 454.073l287.703-287.702c.04-.041.06-.052.083-.059a.118.118 0 0 1 .07 0Z">
+       </path>
+      </svg>
+     </div>
+    </div>
+   </div>
+   <div class="">
+    <div class="w-full fixed z-20 transform transition ease-in-out duration-700 bg-white text-grayFS-800">
+     <div class="max-w-full xl:max-w-screen-xl mx-auto">
+      <div class="flex justify-between xl:grid grid-cols-12 gap-4 min-w-[300px] w-full h-12 md:h-20 px-4">
+       <div class="col-span-2 flex items-center">
+        <div class="xl:hidden">
+         <div class="isLight">
+          <div>
+           <div class="bm-overlay" style="position: fixed; z-index: 1000; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.3); opacity: 0; transform: translate3d(100%, 0px, 0px); transition: opacity 0.3s ease 0s, transform 0s ease 0.3s;">
+           </div>
+           <div>
+            <div class="bm-burger-button" style="z-index: 1000;">
+             <button id="react-burger-menu-btn" style="position: absolute; left: 0px; top: 0px; z-index: 1; width: 100%; height: 100%; margin: 0px; padding: 0px; border: none; font-size: 0px; background: transparent; cursor: pointer;" type="button">
+              Open Menu
+             </button>
+             <span>
+              <span class="bm-burger-bars" style="position: absolute; height: 20%; left: 0px; right: 0px; top: 0%; opacity: 1;">
+              </span>
+              <span class="bm-burger-bars" style="position: absolute; height: 20%; left: 0px; right: 0px; top: 40%; opacity: 1;">
+              </span>
+              <span class="bm-burger-bars" style="position: absolute; height: 20%; left: 0px; right: 0px; top: 80%; opacity: 1;">
+              </span>
+             </span>
+            </div>
+           </div>
+           <div aria-hidden="true" class="bm-menu-wrap" hidden="true" id="" style="position: fixed; right: inherit; z-index: 1100; width: 300px; height: 100%; transform: translate3d(-100%, 0px, 0px); transition: all 0.5s ease 0s;">
+            <div class="bm-menu" style="height: 100%; box-sizing: border-box; overflow: auto;">
+             <nav class="bm-item-list" style="height: 100%;">
+              <div class="bm-item flex justify-between" style="display: block;" tabindex="-1">
+               <div class="flex justify-between">
+                <span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;">
+                 <span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;">
+                  <img alt="" aria-hidden="true" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTM1IiBoZWlnaHQ9IjIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"/>
+                 </span>
+                 <img alt="fs-logo-dark" data-nimg="intrinsic" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"/>
+                 <noscript>
+                 </noscript>
+                </span>
+                <p class="text-gray-700 dark:text-neutralFS-50 text-sm cursor-pointer">
+                 <svg fill="none" height="20" viewbox="0 0 22 22" width="20" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M12.2933 10.9992L18.0683 5.23336C18.2409 5.06075 18.3378 4.82664 18.3378 4.58253C18.3378 4.33842 18.2409 4.10431 18.0683 3.93169C17.8956 3.75908 17.6615 3.66211 17.4174 3.66211C17.1733 3.66211 16.9392 3.75908 16.7666 3.93169L11.0008 9.70669L5.23492 3.93169C5.06231 3.75908 4.8282 3.66211 4.58409 3.66211C4.33998 3.66211 4.10587 3.75908 3.93326 3.93169C3.76065 4.10431 3.66367 4.33842 3.66367 4.58253C3.66367 4.82664 3.76065 5.06075 3.93326 5.23336L9.70826 10.9992L3.93326 16.765C3.84734 16.8502 3.77915 16.9516 3.73261 17.0633C3.68607 17.175 3.66211 17.2948 3.66211 17.4159C3.66211 17.5369 3.68607 17.6567 3.73261 17.7684C3.77915 17.8801 3.84734 17.9815 3.93326 18.0667C4.01847 18.1526 4.11986 18.2208 4.23156 18.2673C4.34327 18.3139 4.46308 18.3378 4.58409 18.3378C4.7051 18.3378 4.82492 18.3139 4.93662 18.2673C5.04832 18.2208 5.14971 18.1526 5.23492 18.0667L11.0008 12.2917L16.7666 18.0667C16.8518 18.1526 16.9532 18.2208 17.0649 18.2673C17.1766 18.3139 17.2964 18.3378 17.4174 18.3378C17.5384 18.3378 17.6582 18.3139 17.77 18.2673C17.8817 18.2208 17.983 18.1526 18.0683 18.0667C18.1542 17.9815 18.2224 17.8801 18.2689 17.7684C18.3154 17.6567 18.3394 17.5369 18.3394 17.4159C18.3394 17.2948 18.3154 17.175 18.2689 17.0633C18.2224 16.9516 18.1542 16.8502 18.0683 16.765L12.2933 10.9992Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                  </path>
+                 </svg>
+                </p>
+               </div>
+              </div>
+              <div class="bm-item mt-6" style="display: block;" tabindex="-1">
+               <div class="dark:text-neutralFS-50 css-1j07fsx e3nleyr1">
+                เมนู
+               </div>
+              </div>
+              <div class="bm-item mt-6" style="display: block;" tabindex="-1">
+               <div>
+                <button aria-expanded="false" class="flex w-full justify-between items-center border-b border-black-200 pb-2 dark:border-neutralFS-800" data-headlessui-state="" id="headlessui-disclosure-button-1" type="button">
+                 <p class="dark:text-neutralFS-50 css-k8ly9o e1b2e5d82">
+                  คอร์สออนไลน์
+                 </p>
+                 <svg class="text-xl text-primaryFS-500 transform rotate-0 duration-300" fill="none" height="1em" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+                  <polyline points="6 9 12 15 18 9">
+                  </polyline>
+                 </svg>
+                </button>
+               </div>
+               <div class="flex flex-col space-y-2 mt-2">
+                <a class="pb-2 border-b border-black-200 dark:border-neutralFS-800" href="/yearly" target="_blank">
+                 <p class="dark:text-neutralFS-50 css-k8ly9o e1b2e5d82">
+                  สมาชิกรายปี
+                 </p>
+                </a>
+                <a class="pb-2 border-b border-black-200 dark:border-neutralFS-800" href="https://corporate.futureskill.co/" target="_blank">
+                 <p class="dark:text-neutralFS-50 css-k8ly9o e1b2e5d82">
+                  สำหรับองค์กร
+                 </p>
+                </a>
+               </div>
+              </div>
+             </nav>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="ml-12 sm:ml-14 xl:ml-0">
+         <span class="flex shrink-0 relative cursor-pointer w-[150px] h-[25px] xl:w-[210px] xl:h-[35px]" href="/">
+          <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;">
+           <img alt="fs-logo-light" data-nimg="fill" decoding="async" src="/_next/static/media/fs-logo-light.a1b09efb.png" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+          </span>
+         </span>
+        </div>
+       </div>
+       <div class="col-span-4 hidden xl:flex space-x-5 items-center justify-end xl:justify-center xl:self-center">
+        <p class="flex items-center gap-1 cursor-pointer mr-5 css-1jr5dh9 e1b2e5d82">
+         คอร์สออนไลน์
+         <span class="text-sm cursor-pointer text-gray-700">
+          <svg fill="none" height="8" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg">
+           <path d="M10.9997 1.1697C10.8123 0.983448 10.5589 0.878906 10.2947 0.878906C10.0305 0.878906 9.77707 0.983448 9.5897 1.1697L5.9997 4.7097L2.4597 1.1697C2.27234 0.983448 2.01889 0.878906 1.7547 0.878906C1.49052 0.878906 1.23707 0.983448 1.0497 1.1697C0.955976 1.26266 0.881582 1.37326 0.830813 1.49512C0.780044 1.61698 0.753906 1.74769 0.753906 1.8797C0.753906 2.01171 0.780044 2.14242 0.830813 2.26428C0.881582 2.38613 0.955976 2.49674 1.0497 2.5897L5.2897 6.8297C5.38267 6.92343 5.49327 6.99782 5.61513 7.04859C5.73699 7.09936 5.86769 7.1255 5.9997 7.1255C6.13172 7.1255 6.26242 7.09936 6.38428 7.04859C6.50614 6.99782 6.61674 6.92343 6.7097 6.8297L10.9997 2.5897C11.0934 2.49674 11.1678 2.38613 11.2186 2.26428C11.2694 2.14242 11.2955 2.01171 11.2955 1.8797C11.2955 1.74769 11.2694 1.61698 11.2186 1.49512C11.1678 1.37326 11.0934 1.26266 10.9997 1.1697Z" fill="currentColor" stroke="currentColor" stroke-width="1">
+           </path>
+          </svg>
+         </span>
+        </p>
+        <div style="margin-left: 0px; margin-right: 20px;">
+         <a class="" href="/yearly" target="_blank">
+          สมาชิกรายปี
+         </a>
+        </div>
+        <div style="margin-left: 0px; margin-right: 20px;">
+         <a class="" href="https://corporate.futureskill.co/" target="_blank">
+          สำหรับองค์กร
+         </a>
+        </div>
+       </div>
+       <div class="xl:col-span-6 flex justify-end items-center space-x-4">
+        <div class="mr-3 border-r-2 px-4">
+         <div class="lg:hidden cursor-pointer">
+          <svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+           <path clip-rule="evenodd" d="M12.9056 14.3199C11.551 15.3729 9.84871 16 8 16C3.58172 16 0 12.4183 0 8C0 3.58172 3.58172 0 8 0C12.4183 0 16 3.58172 16 8C16 9.84871 15.3729 11.551 14.3199 12.9056L19.7071 18.2929C20.0976 18.6834 20.0976 19.3166 19.7071 19.7071C19.3166 20.0976 18.6834 20.0976 18.2929 19.7071L12.9056 14.3199ZM14 8C14 11.3137 11.3137 14 8 14C4.68629 14 2 11.3137 2 8C2 4.68629 4.68629 2 8 2C11.3137 2 14 4.68629 14 8Z" fill="#BFBFBF" fill-rule="evenodd">
+           </path>
+          </svg>
+         </div>
+         <div class="hidden lg:flex items-center rounded-lg gap-2 py-3 px-4 w-[259.00px] h-[47.00px] cursor-text bg-grayFS-300 border-[1.5px] border-grayFS-300 focus-within:border-primaryFS-400">
+          <svg class="pointer-events-none" fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+           <path clip-rule="evenodd" d="M12.9056 14.3199C11.551 15.3729 9.84871 16 8 16C3.58172 16 0 12.4183 0 8C0 3.58172 3.58172 0 8 0C12.4183 0 16 3.58172 16 8C16 9.84871 15.3729 11.551 14.3199 12.9056L19.7071 18.2929C20.0976 18.6834 20.0976 19.3166 19.7071 19.7071C19.3166 20.0976 18.6834 20.0976 18.2929 19.7071L12.9056 14.3199ZM14 8C14 11.3137 11.3137 14 8 14C4.68629 14 2 11.3137 2 8C2 4.68629 4.68629 2 8 2C11.3137 2 14 4.68629 14 8Z" fill="#BFBFBF" fill-rule="evenodd">
+           </path>
+          </svg>
+          <input class="border-0 p-0 text-sm w-full flex-1 focus:outline-none focus:ring-0 focus-within:placeholder-transparent bg-grayFS-300 placeholder-neutralFS-200" placeholder="ค้นหา" type="text" value=""/>
+         </div>
+         <div style="position: fixed; top: 1px; left: 1px; width: 1px; height: 0px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border-width: 0px; display: none;">
+         </div>
+        </div>
+        <div class="">
+         <div class="relative flex" data-headlessui-state="">
+          <button aria-expanded="false" data-headlessui-state="" id="headlessui-popover-button-4" type="button">
+           <div class="relative cursor-pointer">
+            <div class="">
+             <svg fill="none" height="25" viewbox="0 0 26 25" width="26" xmlns="http://www.w3.org/2000/svg">
+              <path d="M10 23C10.5523 23 11 22.5523 11 22C11 21.4477 10.5523 21 10 21C9.44772 21 9 21.4477 9 22C9 22.5523 9.44772 23 10 23Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5">
+              </path>
+              <path d="M21 23C21.5523 23 22 22.5523 22 22C22 21.4477 21.5523 21 21 21C20.4477 21 20 21.4477 20 22C20 22.5523 20.4477 23 21 23Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5">
+              </path>
+              <path d="M2 2H6L8.68 15.39C8.77144 15.8504 9.02191 16.264 9.38755 16.5583C9.75318 16.8526 10.2107 17.009 10.68 17H20.4C20.8693 17.009 21.3268 16.8526 21.6925 16.5583C22.0581 16.264 22.3086 15.8504 22.4 15.39L24 7H7" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5">
+              </path>
+             </svg>
+            </div>
+           </div>
+          </button>
+         </div>
+        </div>
+        <div class="flex space-x-4">
+         <button class="w-[76px] h-[30px] md:w-[135px] md:h-[45px] text-center border-[1.5px] border-primaryFS-500 rounded-2xl md:p-2 text-[12px] md:text-[16px] font-semibold hover:bg-primaryFS-500 hover:border-primaryFS-500 text-primaryFS-500 hover:text-white">
+          เข้าสู่ระบบ
+         </button>
+         <button class="w-[76px] h-[30px] md:w-[135px] md:h-[45px] text-center bg-primaryFS-500 text-white rounded-2xl md:p-2 text-[12px] md:text-[16px] font-semibold hidden md:block">
+          สมัครสมาชิก
+         </button>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="custom-hide-transition w-full fixed h-screen" id="menuCourse">
+      <div class="mx-auto bg-black bg-opacity-25 w-full h-full z-20">
+       <div class="false hidden w-full mx-auto max-w-5xl transform overflow-x-scroll custom-scroll md:overflow-x-hidden overflow-y-hidden bg-white text-left align-middle shadow-xl transition-all rounded-md" id="dialogMenu">
+        <div class="flex justify-between">
+         <div class="w-full h-[448px] bg-[#F6F7F9] flex justify-between dark:bg-[#1B2536]">
+          <div class="px-4 py-6 border-r-[1px] dark:border-neutralFS-800">
+           <p class="text-neutralFS-300 font-semibold tracking-[3px] pb-5">
+            UPSKILL
+           </p>
+           <div class="flex justify-between w-[228px] h-[40px] items-center false p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF]">
+            <div class="flex items-center gap-2">
+             <svg fill="none" height="15" viewbox="0 0 15 15" width="15" xmlns="http://www.w3.org/2000/svg">
+              <rect height="5.99548" stroke="#7A869D" stroke-width="1.5" width="7.30421" x="0.75" y="0.75">
+              </rect>
+              <rect height="5.99548" stroke="#7A869D" stroke-width="1.5" width="2.90211" x="11.3379" y="0.75">
+              </rect>
+              <rect height="4.56777" stroke="#7A869D" stroke-width="1.5" width="3.73494" x="0.75" y="9.67383">
+              </rect>
+              <rect height="4.56777" stroke="#7A869D" stroke-width="1.5" width="6.82831" x="7.41211" y="9.67383">
+              </rect>
+             </svg>
+             <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+              คอร์สเรียน
+             </h6>
+            </div>
+            <div>
+            </div>
+           </div>
+           <div class="flex justify-between w-[228px] h-[40px] items-center false p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF]">
+            <div class="flex items-center gap-2">
+             <svg fill="none" height="15" viewbox="0 0 15 15" width="15" xmlns="http://www.w3.org/2000/svg">
+              <path d="M14.3684 0.140915C13.8315 0.0493471 13.2878 0.00221357 12.743 3.22633e-06C10.8843 -0.00150563 9.06429 0.526253 7.5 1.52037C5.93169 0.539305 4.11198 0.0245003 2.25696 0.0370853C1.71216 0.0392956 1.1685 0.0864292 0.631613 0.177997C0.455751 0.208018 0.296493 0.299225 0.182519 0.435194C0.0685445 0.571162 0.00734365 0.742957 0.00993799 0.919639V9.81935C0.00833386 9.92832 0.0310047 10.0363 0.0763374 10.1356C0.12167 10.2349 0.188551 10.3231 0.27222 10.3939C0.355889 10.4647 0.454291 10.5164 0.560424 10.5453C0.666558 10.5742 0.777813 10.5795 0.886275 10.561C1.95962 10.377 3.05929 10.4075 4.12053 10.6508C5.18177 10.8941 6.18312 11.3452 7.06558 11.9775L7.15546 12.0294H7.23785C7.32091 12.0637 7.41001 12.0814 7.5 12.0814C7.58999 12.0814 7.67909 12.0637 7.76215 12.0294H7.84454L7.93442 11.9775C8.81073 11.331 9.8092 10.8653 10.8706 10.608C11.9321 10.3506 13.0349 10.3069 14.1137 10.4794C14.2222 10.4979 14.3334 10.4926 14.4396 10.4637C14.5457 10.4348 14.6441 10.3832 14.7278 10.3123C14.8114 10.2415 14.8783 10.1533 14.9237 10.054C14.969 9.95472 14.9917 9.84674 14.9901 9.73776V0.838059C14.9823 0.669078 14.9164 0.507814 14.8033 0.381013C14.6902 0.254212 14.5368 0.169496 14.3684 0.140915ZM6.75099 9.99734C5.36525 9.27549 3.82277 8.89875 2.25696 8.89971C2.00978 8.89971 1.76261 8.89971 1.50795 8.89971V1.48329C1.75741 1.46905 2.00749 1.46905 2.25696 1.48329C3.85488 1.48154 5.41792 1.94584 6.75099 2.81824V9.99734ZM13.492 8.92937C13.2374 8.92937 12.9902 8.92937 12.743 8.92937C11.1772 8.92842 9.63476 9.30516 8.24901 10.027V2.81824C9.58208 1.94584 11.1451 1.48154 12.743 1.48329C12.9925 1.46905 13.2426 1.46905 13.492 1.48329V8.92937ZM14.3684 12.0072C13.8315 11.9156 13.2878 11.8685 12.743 11.8663C10.8843 11.8648 9.06429 12.3925 7.5 13.3866C5.93571 12.3925 4.11572 11.8648 2.25696 11.8663C1.71216 11.8685 1.1685 11.9156 0.631613 12.0072C0.534113 12.0225 0.440633 12.0568 0.35655 12.108C0.272466 12.1592 0.199437 12.2264 0.141663 12.3056C0.0838889 12.3849 0.0425088 12.4747 0.0199026 12.5698C-0.00270366 12.665 -0.00609009 12.7636 0.00993799 12.8601C0.0480015 13.0527 0.161605 13.2225 0.325862 13.3323C0.490119 13.4421 0.691638 13.483 0.886275 13.446C1.95962 13.262 3.05929 13.2925 4.12053 13.5358C5.18177 13.7791 6.18312 14.2302 7.06558 14.8625C7.19243 14.9519 7.34428 15 7.5 15C7.65572 15 7.80757 14.9519 7.93442 14.8625C8.81688 14.2302 9.81823 13.7791 10.8795 13.5358C11.9407 13.2925 13.0404 13.262 14.1137 13.446C14.3084 13.483 14.5099 13.4421 14.6741 13.3323C14.8384 13.2225 14.952 13.0527 14.9901 12.8601C15.0061 12.7636 15.0027 12.665 14.9801 12.5698C14.9575 12.4747 14.9161 12.3849 14.8583 12.3056C14.8006 12.2264 14.7275 12.1592 14.6434 12.108C14.5594 12.0568 14.4659 12.0225 14.3684 12.0072Z" fill="#7A869D">
+              </path>
+             </svg>
+             <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+              คอร์สเรียนใหม่
+             </h6>
+            </div>
+            <div>
+            </div>
+           </div>
+           <div class="flex justify-between w-[228px] h-[40px] items-center false p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF]">
+            <div class="flex items-center gap-2">
+             <svg fill="none" height="13" viewbox="0 0 15 13" width="15" xmlns="http://www.w3.org/2000/svg">
+              <rect fill="#7A869D" height="1.875" rx="0.9375" width="15" y="11.125">
+              </rect>
+              <path d="M14.2502 5.7327C14.0513 5.7327 13.8606 5.65864 13.7199 5.52683C13.5793 5.39501 13.5003 5.21623 13.5003 5.02981V3.20934L8.78377 7.63752C8.71406 7.7034 8.63113 7.75569 8.53975 7.79137C8.44838 7.82706 8.35037 7.84543 8.25138 7.84543C8.15239 7.84543 8.05438 7.82706 7.96301 7.79137C7.87163 7.75569 7.7887 7.7034 7.71899 7.63752L5.25199 5.31799L1.28531 9.04329C1.14411 9.17564 0.9526 9.25 0.752915 9.25C0.553229 9.25 0.361722 9.17564 0.220524 9.04329C0.0793247 8.91093 0 8.73142 0 8.54424C0 8.35706 0.0793247 8.17755 0.220524 8.04519L4.7196 3.82788C4.78931 3.762 4.87225 3.70971 4.96362 3.67402C5.055 3.63834 5.15301 3.61997 5.25199 3.61997C5.35098 3.61997 5.44899 3.63834 5.54037 3.67402C5.63174 3.70971 5.71468 3.762 5.78439 3.82788L8.25138 6.1474L12.443 2.21827H10.5009C10.302 2.21827 10.1113 2.14422 9.9707 2.0124C9.83008 1.88058 9.75107 1.7018 9.75107 1.51539C9.75107 1.32897 9.83008 1.15019 9.9707 1.01837C10.1113 0.886553 10.302 0.8125 10.5009 0.8125H14.2502C14.3481 0.813611 14.4449 0.832714 14.5351 0.868731C14.7183 0.940056 14.8639 1.07654 14.94 1.24829C14.9784 1.33279 14.9988 1.42353 15 1.51539V5.02981C15 5.21623 14.921 5.39501 14.7804 5.52683C14.6398 5.65864 14.449 5.7327 14.2502 5.7327Z" fill="#7A869D">
+              </path>
+             </svg>
+             <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+              เส้นทางการเรียน
+             </h6>
+             <div class="py-1 px-2 text-white rounded-lg bg-gradient-to-b from-[#F0538B] to-[#A3003A]">
+              <p class="text-xs">
+               ใหม่
+              </p>
+             </div>
+            </div>
+            <div>
+            </div>
+           </div>
+          </div>
+          <div class="h-[448px] bg-[#F6F7F9] dark:bg-[#1B2536] flex justify-between">
+           <div class="px-4 py-6 overflow-y-auto custom-scroll">
+            <a href="/courses/online-marketing">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] bg-[#E8EAEF] dark:bg-[#2C3547]">
+              <div class="flex items-center gap-3">
+               <h6 class="text-primaryFS-500">
+                การตลาดออนไลน์
+               </h6>
+              </div>
+              <div>
+               <svg fill="none" height="21" viewbox="0 0 21 21" width="21" xmlns="http://www.w3.org/2000/svg">
+                <path d="M13.5979 9.87835L8.64538 4.9346C8.56404 4.85259 8.46726 4.7875 8.36064 4.74308C8.25401 4.69865 8.13964 4.67578 8.02413 4.67578C7.90862 4.67578 7.79425 4.69865 7.68763 4.74308C7.581 4.7875 7.48422 4.85259 7.40288 4.9346C7.23991 5.09855 7.14844 5.32032 7.14844 5.55148C7.14844 5.78264 7.23991 6.00441 7.40288 6.16836L11.7341 10.5434L7.40288 14.8746C7.23991 15.0385 7.14844 15.2603 7.14844 15.4915C7.14844 15.7226 7.23991 15.9444 7.40288 16.1084C7.48392 16.191 7.58056 16.2568 7.6872 16.3019C7.79384 16.3469 7.90836 16.3704 8.02413 16.3709C8.1399 16.3704 8.25442 16.3469 8.36106 16.3019C8.4677 16.2568 8.56434 16.191 8.64538 16.1084L13.5979 11.1646C13.6867 11.0827 13.7576 10.9832 13.8061 10.8725C13.8545 10.7618 13.8796 10.6423 13.8796 10.5215C13.8796 10.4006 13.8545 10.2811 13.8061 10.1704C13.7576 10.0597 13.6867 9.96029 13.5979 9.87835V9.87835Z" fill="#842CDD">
+                </path>
+               </svg>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/business">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                ธุรกิจ
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/finance-investment">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                การเงิน &amp; ลงทุน
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/soft-skills">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                การพัฒนาตนเอง
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/office-productivity">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                Office Productivity
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/data">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                Data
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/programing-languages">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                เขียนโปรแกรม
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/software-development">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                การพัฒนาซอฟต์แวร์
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/game-developement">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                การสร้างเกมส์
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/software-development-framework">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                Framework การพัฒนาซอฟต์แวร์
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/it-and-software">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                ไอทีและซอฟต์แวร์
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/design">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                การออกแบบ
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/art-craft">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                Art &amp; Craft
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/writing">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                การเขียน
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/photography-and-video">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                ถ่ายภาพ &amp; วิดีโอ
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/language">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                ภาษา
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/lifestyles">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                Lifestyles
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+            <a href="/courses/free-courses">
+             <div class="flex justify-between w-[228px] h-[40px] items-center p-3 rounded-md mb-2 cursor-pointer hover:bg-[#E8EAEF] hover:dark:bg-[#2C3547] false">
+              <div class="flex items-center gap-3">
+               <h6 class="text-neutralFS-800 dark:text-neutralFS-50">
+                คอร์สฟรี
+               </h6>
+              </div>
+              <div>
+              </div>
+             </div>
+            </a>
+           </div>
+          </div>
+          <div class="h-[448px] w-full bg-[#fff] dark:bg-[#263042] flex justify-between">
+           <div class="w-full px-4 py-6">
+            <p class="text-neutralFS-300 font-semibold tracking-[3px] pb-5">
+             ONLINE COURSES
+            </p>
+            <div class="h-[370px] overflow-y-auto mb-3 custom-scroll">
+             <a href="/courses/online-marketing/martech">
+              <p class="font-medium pb-3 text-md cursor-pointer text-primaryFS-500">
+               MarTech (1)
+              </p>
+             </a>
+             <a href="/courses/online-marketing/branding">
+              <p class="font-medium pb-3 text-md cursor-pointer text-neutralFS-800 dark:text-neutralFS-50">
+               การสร้างแบรนด์ (2)
+              </p>
+             </a>
+             <a href="/courses/online-marketing/digital-marketing">
+              <p class="font-medium pb-3 text-md cursor-pointer text-neutralFS-800 dark:text-neutralFS-50">
+               Digital Marketing (21)
+              </p>
+             </a>
+             <a href="/courses/online-marketing/social-media-marketing">
+              <p class="font-medium pb-3 text-md cursor-pointer text-neutralFS-800 dark:text-neutralFS-50">
+               Social Media Marketing (7)
+              </p>
+             </a>
+             <a href="/courses/online-marketing/content-marketing">
+              <p class="font-medium pb-3 text-md cursor-pointer text-neutralFS-800 dark:text-neutralFS-50">
+               Content Marketing (17)
+              </p>
+             </a>
+             <a href="/courses/online-marketing/online-ads">
+              <p class="font-medium pb-3 text-md cursor-pointer text-neutralFS-800 dark:text-neutralFS-50">
+               Online Ads (2)
+              </p>
+             </a>
+             <a href="/courses/online-marketing/seo">
+              <p class="font-medium pb-3 text-md cursor-pointer text-neutralFS-800 dark:text-neutralFS-50">
+               SEO (2)
+              </p>
+             </a>
+             <a href="/courses/online-marketing/customer-experience-crm">
+              <p class="font-medium pb-3 text-md cursor-pointer text-neutralFS-800 dark:text-neutralFS-50">
+               Customer Experience &amp; CRM (8)
+              </p>
+             </a>
+             <a href="/courses/online-marketing/online-sales">
+              <p class="font-medium pb-3 text-md cursor-pointer text-neutralFS-800 dark:text-neutralFS-50">
+               ขายของออนไลน์ (4)
+              </p>
+             </a>
+            </div>
+           </div>
+           <div class="w-full px-4 py-6">
+            <div>
+             <p class="text-pinkFS-500 font-semibold pb-5 text-right cursor-pointer">
+              ดูคอร์สเรียนทั้งหมด
+             </p>
+            </div>
+            <div class="w-full">
+             <div class="mb-2">
+              <span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;">
+               <span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;">
+                <img alt="" aria-hidden="true" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkwIiBoZWlnaHQ9Ijk4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"/>
+               </span>
+               <img alt="maxCountLearnerThumbnailUrl" class="rounded-lg" data-nimg="intrinsic" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+               <noscript>
+               </noscript>
+              </span>
+             </div>
+             <p class="text-neutral-800 font-semibold line-clamp-2 w-[200px] text-sm dark:text-neutralFS-100">
+              MARTECH การตลาดเเบบอัตโนมัติ ตัวช่วยการทำธุรกิจให้ดีขึ้น
+             </p>
+             <div>
+              <span class="text-primaryFS-500 text-sm cursor-pointer">
+               ดูรายละเอียด
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="h-[5px] w-full bg-gradient-to-r from-[#842CDD] to-[#E63977] rounded-b-md">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="min-h-screen max-h-full pt-12 md:pt-20">
+    <div class="">
+     <div>
+      <div class="bg-white">
+       <div class="md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl mx-auto p-4">
+        <div class="grid grid-cols-12 sm:gap-4 lg:gap-5">
+         <div class="col-span-12 lg:col-span-9">
+          <div>
+           <span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;">
+            <span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;">
+             <img alt="" aria-hidden="true" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODc0IiBoZWlnaHQ9IjQ2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"/>
+            </span>
+            <img alt="introductionLink" class="rounded-xl" data-nimg="intrinsic" decoding="async" src="https://assets.futureskill.co/course%2F6eb1ebd3-166a-47dc-a1ee-065325c28dbe.%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%A501" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"/>
+           </span>
+          </div>
+          <h4 class="css-1dxup6h e18mttzc2">
+           (Career Insights) ลงทุนอย่างไรให้ประสบความสำเร็จ? เคล็ดลับจาก"ประพล มิลินทจินดา"
+          </h4>
+          <div class="my-4">
+           <div class="css-1y8ts4k e3nleyr1">
+            ผู้สอน
+           </div>
+           <div class="flex items-start gap-3 h-[50px] cursor-pointer">
+            <span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%">
+             <span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%">
+              <img alt="" aria-hidden="true" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+" style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0"/>
+             </span>
+             <img alt="nstructor.imageUrl" class="rounded-full" data-nimg="intrinsic" decoding="async" src="https://assets.futureskill.co/instructor%2F5d9c362e-14ff-4956-91f4-5012fb4b6475.JPG" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/>
+             <noscript>
+              <img alt="nstructor.imageUrl" class="rounded-full" data-nimg="intrinsic" decoding="async" loading="lazy" src="/_next/static/media/user.f35ded89.png" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/>
+             </noscript>
+            </span>
+            <div class="block">
+             <div class="css-3yiziz e3nleyr1">
+              ดร.ประพล มิลินทจินดา
+             </div>
+             <div class="css-19ne8l1 e1b99tl71">
+              นักธุรกิจ &amp; ผู้เชี่ยวชาญด้านของธุรกิจและการลงทุน
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="flex bg-gray-100 px-4 py-2 my-10 rounded-md">
+           <div class="bg-pinkFS-500 text-black-100 inline-block p-3 rounded-md text-white">
+            <div class="css-8p6jws e1b99tl71">
+             คอร์สเรียนใหม่
+            </div>
+           </div>
+           <div class="flex flex-wrap items-center ml-6 gap-4">
+            <div class="flex gap-2 items-center">
+             <svg fill="none" height="18" viewbox="0 0 24 18" width="22" xmlns="http://www.w3.org/2000/svg">
+              <path d="M10.5067 17.2492C10.5037 17.2491 10.4975 17.2488 10.4887 17.2482C10.4675 17.2467 10.4324 17.2433 10.3883 17.236C10.2965 17.2208 10.1856 17.1917 10.0839 17.1412C9.98509 17.092 9.90966 17.0303 9.85736 16.9522C9.80834 16.8791 9.75 16.7483 9.75 16.5074C9.75 15.9421 10.0599 14.6239 11.0681 13.454C12.0457 12.3198 13.7105 11.2902 16.5 11.2902C19.2895 11.2902 20.9543 12.3198 21.9319 13.454C22.9401 14.6239 23.25 15.9421 23.25 16.5074C23.25 16.7483 23.1917 16.8791 23.1426 16.9522C23.0903 17.0303 23.0149 17.092 22.9161 17.1412C22.8144 17.1917 22.7035 17.2208 22.6117 17.236C22.5676 17.2433 22.5325 17.2467 22.5113 17.2482C22.5024 17.2488 22.4963 17.2491 22.4933 17.2492H10.5067ZM19.1531 7.20583C18.4502 7.90493 17.4959 8.29842 16.5 8.29842C15.5041 8.29842 14.5498 7.90493 13.8469 7.20583C13.1441 6.50687 12.75 5.55974 12.75 4.57304C12.75 3.58634 13.1441 2.63921 13.8469 1.94025L13.318 1.40847L13.8469 1.94025C14.5498 1.24114 15.5041 0.847656 16.5 0.847656C17.4959 0.847656 18.4502 1.24114 19.1531 1.94025C19.8559 2.63921 20.25 3.58634 20.25 4.57304C20.25 5.55974 19.8559 6.50687 19.1531 7.20583Z" stroke="#00B35A" stroke-width="1.5">
+              </path>
+              <path d="M8.83869 11.3753C7.48815 12.8434 6.75177 14.6783 6.75 16.5003C6.7459 16.7518 6.76514 17.0023 6.80702 17.2487H1.50668C1.50368 17.2486 1.49755 17.2483 1.48869 17.2476C1.46751 17.2461 1.43238 17.2428 1.38827 17.2355C1.29648 17.2202 1.18564 17.1912 1.08394 17.1406C0.985089 17.0915 0.909658 17.0297 0.857356 16.9517C0.808337 16.8786 0.75 16.7477 0.75 16.5069C0.75 15.9416 1.05988 14.6233 2.06812 13.4535C3.04569 12.3192 4.71052 11.2897 7.5 11.2897V11.2898L7.50867 11.2897C7.95424 11.2845 8.39886 11.3132 8.83869 11.3753Z" stroke="#00B35A" stroke-width="1.5">
+              </path>
+              <path d="M8.87277 7.42469C8.31048 7.98391 7.54697 8.29882 6.75 8.29882C5.95303 8.29882 5.18952 7.98391 4.62722 7.42469C4.06507 6.86561 3.75 6.10821 3.75 5.31933C3.75 4.53045 4.06507 3.77305 4.62722 3.21397C5.18952 2.65475 5.95303 2.33984 6.75 2.33984C7.54697 2.33984 8.31048 2.65475 8.87277 3.21397C9.43493 3.77305 9.75 4.53045 9.75 5.31933C9.75 6.10821 9.43493 6.86561 8.87277 7.42469Z" stroke="#00B35A" stroke-width="1.5">
+              </path>
+             </svg>
+             <div class="css-1wme6vs e1b99tl71">
+              <!-- -->
+              613
+              <!-- -->
+              ผู้เรียน
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="my-10">
+           <h5 class="css-12d8xs5 e18mttzc1">
+            คอร์สนี้ได้เรียนอะไรบ้าง?
+           </h5>
+           <div class="grid grid-cols-2 gap-3 items-start gap-y-3">
+            <div class="col-span-1 my-2">
+             <div class="flex items-start">
+              <div>
+               <svg fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M18.7085 7.20986C18.6155 7.11613 18.5049 7.04174 18.3831 6.99097C18.2612 6.9402 18.1305 6.91406 17.9985 6.91406C17.8665 6.91406 17.7358 6.9402 17.6139 6.99097C17.492 7.04174 17.3814 7.11613 17.2885 7.20986L9.83849 14.6699L6.70849 11.5299C6.61196 11.4366 6.49802 11.3633 6.37317 11.3141C6.24831 11.2649 6.11499 11.2408 5.98081 11.2431C5.84663 11.2454 5.71422 11.2741 5.59114 11.3276C5.46806 11.3811 5.35672 11.4583 5.26348 11.5549C5.17025 11.6514 5.09693 11.7653 5.04773 11.8902C4.99852 12.015 4.97439 12.1484 4.97672 12.2825C4.97904 12.4167 5.00776 12.5491 5.06126 12.6722C5.11475 12.7953 5.19196 12.9066 5.28848 12.9999L9.12849 16.8399C9.22145 16.9336 9.33205 17.008 9.45391 17.0588C9.57577 17.1095 9.70647 17.1357 9.83849 17.1357C9.9705 17.1357 10.1012 17.1095 10.2231 17.0588C10.3449 17.008 10.4555 16.9336 10.5485 16.8399L18.7085 8.67986C18.81 8.58622 18.891 8.47257 18.9464 8.34607C19.0018 8.21957 19.0304 8.08296 19.0304 7.94486C19.0304 7.80676 19.0018 7.67015 18.9464 7.54365C18.891 7.41715 18.81 7.3035 18.7085 7.20986Z" fill="#842CDD">
+                </path>
+               </svg>
+              </div>
+              <div>
+               <div class="css-1gkp0dm e1b99tl71">
+                ได้รับแนวคิดจากผู้เชี่ยวชาญในการลงทุน
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="bg-white border-[1px] border-[#DCDCDC] p-5 rounded-lg">
+           <div class="css-iw9l1r emruvpm1">
+            บริษัทชั้นนำเสนอคอร์สเรียนนี้ให้กับพนักงาน
+           </div>
+           <div class="css-1sin7g5 e1b99tl71">
+            คอร์สเรียนนี้เป็นคอร์สเรียนยอดนิยมที่ได้รับความไว้วางใจจากหลากหลายบริษัท และสถานศึกษา
+           </div>
+           <div class="hidden md:block">
+            <span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%">
+             <span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%">
+              <img alt="" aria-hidden="true" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQyOCIgaGVpZ2h0PSIxNDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+" style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0"/>
+             </span>
+             <img alt="Group27412.png" class="" data-nimg="intrinsic" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"/>
+             <noscript>
+              <img alt="Group27412.png" class="" data-nimg="intrinsic" decoding="async" loading="lazy" src="/_next/static/media/Group 27412.ae41d600.png" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"/>
+             </noscript>
+            </span>
+           </div>
+           <div class="block md:hidden">
+            <span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%">
+             <span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%">
+              <img alt="" aria-hidden="true" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzg5IiBoZWlnaHQ9IjE0OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0"/>
+             </span>
+             <img alt="Group27409.png" class="" data-nimg="intrinsic" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"/>
+             <noscript>
+              <img alt="Group27409.png" class="" data-nimg="intrinsic" decoding="async" loading="lazy" src="/_next/static/media/Group 27409.271569c4.png" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"/>
+             </noscript>
+            </span>
+           </div>
+          </div>
+          <div class="my-10">
+           <h5 class="css-12d8xs5 e18mttzc1">
+            รายละเอียดคอร์สเรียน
+           </h5>
+           <div class="text-sm sm:text-lg text-black-400 font-normal my-2">
+            <div class="relative mb-5">
+             <div class="pt-1 overflow-hidden" style="height:120px">
+              <p class="text-[16px] special-details">
+              </p>
+              <p>
+               <strong style="background-color: transparent;">
+                ลงทุนอย่างไรให้ประสบความสำเร็จ? เคล็ดลับจาก"ประพล มิลินทจินดา"
+               </strong>
+              </p>
+              <p>
+               <br/>
+              </p>
+              <p>
+               <span style="color: rgb(38, 38, 38); background-color: transparent;">
+                📌
+               </span>
+               <strong style="color: rgb(38, 38, 38); background-color: transparent;">
+                นักลงทุน
+               </strong>
+               <span style="background-color: transparent;">
+                หรือ
+               </span>
+               <strong style="background-color: transparent;">
+                เจ้าของธุรกิจ
+               </strong>
+               <span style="background-color: transparent;">
+                เป็นอาชีพที่ใครหลายๆคนอยากที่จะเริ่มต้น แต่คนที่จะประสบความสำเร็จนั้น จะต้องผ่านความผิดพลาด ผ่านวิกฤติต่างๆ ความเสี่ยง และการรับมือกับปัญหา
+               </span>
+              </p>
+              <p>
+               <span style="background-color: transparent;">
+                ในบทสัมภาษณ์นี้ เราจะพาคุณไปรู้จักกับ
+               </span>
+              </p>
+              <p>
+               <br/>
+              </p>
+              <p>
+               <span style="color: rgb(38, 38, 38); background-color: transparent;">
+                ▶︎
+               </span>
+               <span style="background-color: transparent;">
+                Shark ประพล นักลงทุนตัวพ่อของวงการ
+               </span>
+              </p>
+              <p>
+               <span style="background-color: transparent;">
+                จะมาเล่า ประสบการณ์ลงทุนตั้งแต่แรกเริ่มและเรื่องที่ไม่เคยบอกใครกับทุกคนได้ฟังกัน ไม่ว่าจะเป็น
+               </span>
+              </p>
+              <p>
+               <span style="background-color: transparent;">
+                📋 การลุงทุนและการจัดการการเงิน
+               </span>
+              </p>
+              <p>
+               <span style="background-color: transparent;">
+                💰 การลงทุนที่ผิดพลาด
+               </span>
+              </p>
+              <p>
+               <span style="background-color: transparent;">
+                💱 ความเสี่ยงต่างๆ
+               </span>
+              </p>
+              <p>
+               <span style="background-color: transparent;">
+                🏦 แนวคิดสำหรับคนธรรมดา หรือคนที่กำลังจะทำธุรกิจ
+               </span>
+              </p>
+              <p>
+               <br/>
+              </p>
+              <p>
+               <span style="color: rgb(38, 38, 38); background-color: transparent;">
+                เพื่อเป็นการสร้างแรงบันดาลใจให้กับผู้ที่สนใจการลงทุน แนวคิดการลงทุนเริ่มต้นและ เข้าใจ
+               </span>
+               <span style="background-color: transparent;">
+                ความเสี่ยงต่างๆ
+               </span>
+              </p>
+              <p>
+               <span style="color: rgb(38, 38, 38); background-color: transparent;">
+                และเกร็ดเล็กเกร็ดน้อยที่จะมาบอกผู้ที่เริ่มต้นควรเริ่มจากอย่างไร
+               </span>
+              </p>
+             </div>
+             <div class="absolute bottom-0 w-full h-6 opacity-50" style="background-color:#fff">
+             </div>
+            </div>
+            <div class="cursor-pointer text-black-500 text-center text-primaryFS-500">
+             แสดงเพิ่มเติม
+             <svg class="inline ml-2" fill="none" height="1em" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+              <polyline points="6 9 12 15 18 9">
+              </polyline>
+             </svg>
+            </div>
+           </div>
+          </div>
+          <div class="my-10">
+           <h5 class="css-owwvho e18mttzc1">
+            รายละเอียดบทเรียน
+           </h5>
+           <div class="css-1dn0f5q e3nleyr1">
+            1
+            <!-- -->
+            บทเรียน • ความยาวทั้งหมด
+            <!-- -->
+            21 นาที
+           </div>
+           <div>
+            <button aria-expanded="false" class="flex flex-col md:flex-row items-start md:items-center justify-between w-full rounded-lg bg-black-200 px-4 py-4 bg-[#F6F7F9] mb-3" data-headlessui-state="" id="headlessui-disclosure-button-9" type="button">
+             <div class="flex items-center space-x-2">
+              <div class="">
+               <svg fill="none" height="8" viewbox="0 0 13 8" width="13" xmlns="http://www.w3.org/2000/svg">
+                <path clip-rule="evenodd" d="M12.5769 0.426026C12.0128 -0.142009 11.0983 -0.142009 10.5342 0.426026L6.5 4.48842L2.46582 0.426027C1.90173 -0.142008 0.987157 -0.142008 0.423068 0.426027C-0.141024 0.994062 -0.141024 1.91503 0.423068 2.48306L5.47862 7.57397C6.04271 8.14201 6.95729 8.14201 7.52138 7.57397L12.5769 2.48306C13.141 1.91503 13.141 0.994061 12.5769 0.426026Z" fill="#842CDD" fill-rule="evenodd">
+                </path>
+               </svg>
+              </div>
+              <div class="text-left">
+               <div class="css-1pzy5f8 e3nleyr1">
+                ลงทุนอย่างไรให้ประสบความสำเร็จ?
+               </div>
+              </div>
+             </div>
+             <div class="css-1yy6udz e1b99tl71">
+              1 บทเรียน • 21 นาที
+             </div>
+            </button>
+           </div>
+          </div>
+         </div>
+         <div class="hidden lg:block col-span-3 w-full">
+          <div class="w-full h-auto px-4 py-2 rounded-2xl sticky top-20 card-course-detail">
+           <div class="my-5">
+            <button class="rounded-2xl w-full bg-primaryFS-500 text-white py-3 mb-2 disabled:bg-primaryFS-200 disabled:border-primaryFS-200 disabled:text-primaryFS-500 disabled:cursor-not-allowed">
+             ลงทะเบียนเรียน
+            </button>
+           </div>
+           <div class="my-3">
+            <div class="css-d1s1um e3nleyr1">
+             ข้อมูลคอร์สเรียน
+            </div>
+            <div class="flex gap-3 mb-2 items-center">
+             <svg fill="none" height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg">
+              <path d="M13.5 1.5H6C5.20435 1.5 4.44129 1.81607 3.87868 2.37868C3.31607 2.94129 3 3.70435 3 4.5V13.5C3 14.2956 3.31607 15.0587 3.87868 15.6213C4.44129 16.1839 5.20435 16.5 6 16.5H13.5C13.8978 16.5 14.2794 16.342 14.5607 16.0607C14.842 15.7794 15 15.3978 15 15V3C15 2.60218 14.842 2.22064 14.5607 1.93934C14.2794 1.65804 13.8978 1.5 13.5 1.5ZM4.5 4.5C4.5 4.10218 4.65804 3.72064 4.93934 3.43934C5.22064 3.15804 5.60218 3 6 3H13.5V10.5H6C5.47128 10.5022 4.95299 10.6473 4.5 10.92V4.5ZM6 15C5.60218 15 5.22064 14.842 4.93934 14.5607C4.65804 14.2794 4.5 13.8978 4.5 13.5C4.5 13.1022 4.65804 12.7206 4.93934 12.4393C5.22064 12.158 5.60218 12 6 12H13.5V15H6ZM7.5 6H10.5C10.6989 6 10.8897 5.92098 11.0303 5.78033C11.171 5.63968 11.25 5.44891 11.25 5.25C11.25 5.05109 11.171 4.86032 11.0303 4.71967C10.8897 4.57902 10.6989 4.5 10.5 4.5H7.5C7.30109 4.5 7.11032 4.57902 6.96967 4.71967C6.82902 4.86032 6.75 5.05109 6.75 5.25C6.75 5.44891 6.82902 5.63968 6.96967 5.78033C7.11032 5.92098 7.30109 6 7.5 6Z" fill="#262626">
+              </path>
+             </svg>
+             <div class="css-19ne8l1 e1b99tl71">
+              1 บทเรียน
+             </div>
+            </div>
+            <div class="flex gap-3 mb-2 items-center">
+             <svg fill="none" height="18" viewbox="0 0 16 15" width="18" xmlns="http://www.w3.org/2000/svg">
+              <path d="M10.0026 6.875H8.66927V4.375C8.66927 4.20924 8.59904 4.05027 8.47401 3.93306C8.34899 3.81585 8.17942 3.75 8.00261 3.75C7.8258 3.75 7.65623 3.81585 7.5312 3.93306C7.40618 4.05027 7.33594 4.20924 7.33594 4.375V7.5C7.33594 7.66576 7.40618 7.82473 7.5312 7.94194C7.65623 8.05915 7.8258 8.125 8.00261 8.125H10.0026C10.1794 8.125 10.349 8.05915 10.474 7.94194C10.599 7.82473 10.6693 7.66576 10.6693 7.5C10.6693 7.33424 10.599 7.17527 10.474 7.05806C10.349 6.94085 10.1794 6.875 10.0026 6.875ZM8.00261 1.25C6.68407 1.25 5.39513 1.61656 4.29881 2.30331C3.20248 2.99007 2.34799 3.96619 1.84341 5.10823C1.33883 6.25027 1.2068 7.50693 1.46404 8.71931C1.72127 9.9317 2.35621 11.0453 3.28856 11.9194C4.22091 12.7935 5.4088 13.3888 6.70201 13.6299C7.99521 13.8711 9.33566 13.7473 10.5538 13.2742C11.772 12.8012 12.8132 12.0001 13.5457 10.9723C14.2783 9.94451 14.6693 8.73613 14.6693 7.5C14.6693 6.67924 14.4968 5.86651 14.1618 5.10823C13.8268 4.34994 13.3357 3.66095 12.7167 3.08058C12.0976 2.50022 11.3627 2.03984 10.5538 1.72575C9.74499 1.41166 8.87809 1.25 8.00261 1.25ZM8.00261 12.5C6.94777 12.5 5.91663 12.2068 5.03957 11.6573C4.1625 11.1079 3.47892 10.327 3.07525 9.41342C2.67158 8.49979 2.56596 7.49445 2.77175 6.52455C2.97754 5.55464 3.48549 4.66373 4.23137 3.96447C4.97725 3.2652 5.92756 2.789 6.96213 2.59607C7.99669 2.40315 9.06905 2.50216 10.0436 2.8806C11.0181 3.25904 11.8511 3.8999 12.4371 4.72215C13.0231 5.54439 13.3359 6.51109 13.3359 7.5C13.3359 8.82608 12.774 10.0979 11.7738 11.0355C10.7737 11.9732 9.4171 12.5 8.00261 12.5Z" fill="#262626">
+              </path>
+             </svg>
+             <div class="css-19ne8l1 e1b99tl71">
+              <!-- -->
+              21 นาที
+             </div>
+            </div>
+            <div class="flex gap-3 mb-2 items-center">
+             <svg fill="none" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+              <rect height="9.35294" rx="0.5" stroke="#161C27" width="3.70588" x="6.14844" y="6.14697">
+              </rect>
+              <rect height="4.64706" rx="0.5" stroke="#842CDD" width="3.70588" x="0.5" y="10.853">
+              </rect>
+              <rect height="15" rx="0.5" stroke="#161C27" width="3.70588" x="11.7969" y="0.5">
+              </rect>
+             </svg>
+             <div class="css-19ne8l1 e1b99tl71">
+              พื้นฐาน
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div style="position:fixed;z-index:9999;top:16px;left:16px;right:16px;bottom:16px;pointer-events:none">
+    </div>
+   </div>
+   <div class="md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl mx-auto py-10 pb-4 px-4">
+    <div class="grid grid-cols-12">
+     <div class="col-span-12 lg:col-span-5 text-center lg:text-left order-1 lg:order-none mt-10 lg:mt-0">
+      <span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%">
+       <span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%">
+        <img alt="" aria-hidden="true" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjI0IiBoZWlnaHQ9IjM1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0"/>
+       </span>
+       <img alt="" data-nimg="intrinsic" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"/>
+       <noscript>
+        <img alt="" data-nimg="intrinsic" decoding="async" loading="lazy" src="/_next/static/media/fs-logo2.b7bfeb2c.png" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"/>
+       </noscript>
+      </span>
+      <p class="">
+       แพลตฟอร์มการเรียนออนไลน์สำหรับทักษะแห่งอนาคต
+      </p>
+      <div class="flex justify-center mt-8 lg:hidden gap-4">
+       <a href="https://www.facebook.com/futureskill.co" target="_blank">
+        <svg fill="none" height="1em" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+         <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z">
+         </path>
+        </svg>
+       </a>
+       <a href="https://www.instagram.com/futureskill.co/?hl=en" target="_blank">
+        <svg fill="none" height="1em" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+         <rect height="20" rx="5" ry="5" width="20" x="2" y="2">
+         </rect>
+         <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z">
+         </path>
+         <line x1="17.5" x2="17.51" y1="6.5" y2="6.5">
+         </line>
+        </svg>
+       </a>
+      </div>
+     </div>
+     <div class="col-span-12 lg:col-span-7">
+      <div class="grid clo-span-1 md:grid-cols-3 gap-3">
+       <div class="col-span-1 ml-0 md:ml-10 lg:ml-0 hover:text-[#842CDD]">
+        <a href="https://futureskill.co/course" target="_blank">
+         คอร์สออนไลน์
+        </a>
+       </div>
+       <div class="col-span-1 ml-0 md:ml-10 lg:ml-0 hover:text-[#842CDD]">
+        <a href="https://futureskill.co/user-agreement" target="_blank">
+         ข้อตกลงการให้บริการ
+        </a>
+       </div>
+       <div class="col-span-1 ml-0 md:ml-10 lg:ml-0 hover:text-[#842CDD]">
+        <a href="https://careers.futureskill.co/?utm_source=website&amp;utm_medium=navbar&amp;utm_campaign=hiring " target="_blank">
+         สมัครงาน
+        </a>
+       </div>
+       <div class="col-span-1 ml-0 md:ml-10 lg:ml-0 hover:text-[#842CDD]">
+        <a href="https://futureskill.co/pricing" target="_blank">
+         สมาชิกรายปี
+        </a>
+       </div>
+       <div class="col-span-1 ml-0 md:ml-10 lg:ml-0 hover:text-[#842CDD]">
+        <a href="/privacy-policy" target="_self">
+         นโยบายความเป็นส่วนตัว
+        </a>
+       </div>
+       <div class="col-span-1 ml-0 md:ml-10 lg:ml-0 hover:text-[#842CDD]">
+        <a href="https://blog.futureskill.co/" target="_blank">
+         บล็อค
+        </a>
+       </div>
+       <div class="col-span-1 ml-0 md:ml-10 lg:ml-0 hover:text-[#842CDD]">
+        <a href="https://corporate.futureskill.co/" target="_blank">
+         FutureSkill สำหรับองค์กร
+        </a>
+       </div>
+       <div class="col-span-1 ml-0 md:ml-10 lg:ml-0 hover:text-[#842CDD]">
+        <a href="/refund-policy" target="_self">
+         นโยบายการคืนเงิน
+        </a>
+       </div>
+       <div class="col-span-1 ml-0 md:ml-10 lg:ml-0 hover:text-[#842CDD]">
+        <a href="https://thistle-branding-227186.framer.app/" target="_blank">
+         เกี่ยวกับเรา
+        </a>
+       </div>
+       <div class="col-span-1 ml-0 md:ml-10 lg:ml-0 hover:text-[#842CDD]">
+        <a href="/" target="_self">
+        </a>
+       </div>
+       <div class="col-span-1 ml-0 md:ml-10 lg:ml-0 hover:text-[#842CDD]">
+        <a href="https://support.futureskill.co/hc/en-us/sections/900001609383-FAQ" target="_self">
+         คำถามที่พบบ่อย
+        </a>
+       </div>
+       <div class="col-span-1 ml-0 md:ml-10 lg:ml-0 hover:text-[#842CDD]">
+        <a href="https://futureskill.co/contact" target="_blank">
+         ติดต่อเรา
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <hr class="border-neutralFS-100 my-5"/>
+    <div class="block lg:flex justify-between">
+     <div class="text-center lg:text-left">
+      <p class="text-neutralFS-500 text-sm">
+       Copyright © 2022 LIKEME X CO., LTD.
+      </p>
+     </div>
+     <div class="hidden lg:flex gap-4">
+      <a href="https://www.facebook.com/futureskill.co" target="_blank">
+       <svg fill="none" height="1em" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+        <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z">
+        </path>
+       </svg>
+      </a>
+      <a href="https://www.instagram.com/futureskill.co/?hl=en" target="_blank">
+       <svg fill="none" height="1em" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+        <rect height="20" rx="5" ry="5" width="20" x="2" y="2">
+        </rect>
+        <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z">
+        </path>
+        <line x1="17.5" x2="17.51" y1="6.5" y2="6.5">
+        </line>
+       </svg>
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script id="__NEXT_DATA__" type="application/json">
+   {"props":{"data":{"id":1,"attributes":{"contact":"\u003cp\u003eบริษัท ไลค์มี เอ็กซ์ (สำนักงานใหญ่) 126/5 ชั้น 2 อาคารไทยศรีทาวเวอร์ ถ.กรุงธนบุรี บางลำพูล่าง คลองสาน กรุงเทพฯ 16000\u003c/p\u003e","createdAt":"2022-10-14T04:57:36.157Z","updatedAt":"2023-09-04T06:14:07.087Z","publishedAt":"2022-10-14T04:57:38.782Z","seo":null,"navigation":{"id":1,"links":[{"id":1,"label":"สมาชิกรายปี","url":"/yearly","isExternal":true,"enable":true},{"id":2,"label":"สำหรับองค์กร","url":"https://corporate.futureskill.co/","isExternal":true,"enable":true}]},"link":[{"id":5,"label":"คอร์สออนไลน์","url":"https://futureskill.co/course","isExternal":true,"enable":true},{"id":6,"label":"ข้อตกลงการให้บริการ","url":"https://futureskill.co/user-agreement","isExternal":true,"enable":true},{"id":7,"label":"สมัครงาน","url":"https://careers.futureskill.co/?utm_source=website\u0026utm_medium=navbar\u0026utm_campaign=hiring ","isExternal":true,"enable":true},{"id":8,"label":"สมาชิกรายปี","url":"https://futureskill.co/pricing","isExternal":true,"enable":true},{"id":9,"label":"นโยบายความเป็นส่วนตัว","url":"/privacy-policy","isExternal":false,"enable":true},{"id":10,"label":"บล็อค","url":"https://blog.futureskill.co/","isExternal":true,"enable":true},{"id":11,"label":"FutureSkill สำหรับองค์กร","url":"https://corporate.futureskill.co/","isExternal":true,"enable":true},{"id":12,"label":"นโยบายการคืนเงิน","url":"/refund-policy","isExternal":false,"enable":true},{"id":13,"label":"เกี่ยวกับเรา","url":"https://thistle-branding-227186.framer.app/","isExternal":true,"enable":true},{"id":14,"label":null,"url":"/","isExternal":false,"enable":true},{"id":15,"label":"คำถามที่พบบ่อย","url":"https://support.futureskill.co/hc/en-us/sections/900001609383-FAQ","isExternal":false,"enable":true},{"id":16,"label":"ติดต่อเรา","url":"https://futureskill.co/contact","isExternal":true,"enable":true}],"socialNetwork":[{"id":1,"label":"Facebook","link":{"id":3,"label":"Facebook","url":"https://www.facebook.com/futureskill.co","isExternal":true,"enable":true}},{"id":2,"label":"instagram","link":{"id":4,"label":"instagram","url":"https://www.instagram.com/futureskill.co/?hl=en","isExternal":true,"enable":true}}]}},"meta":{},"appProps":{"pageProps":{}},"userIP":"172.68.242.10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"},"page":"/course/detail/[courseId]","query":{"courseId":"1014"},"buildId":"nNb9_i0SZBZsCJfi_JSd1","isFallback":false,"appGip":true,"scriptLoader":[]}
+  </script>
+  <next-route-announcer>
+   <p aria-live="assertive" id="__next-route-announcer__" role="alert" style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap; overflow-wrap: normal;">
+   </p>
+  </next-route-announcer>
+  <div id="headlessui-portal-root">
+   <div data-headlessui-portal="">
+    <div>
+    </div>
+   </div>
+  </div>
+  <script id="" type="text/javascript">
+   var d=document,s="script",el=d.createElement(s);el.async=!0;el.src="https://cookiecdn.com/cwc.js";el.onload=el.onreadystatechange=function(){var a=document.createElement("script");a.id="cookieWow";a.dataset.cwcid="p9qc9VwBXSqKp4mkFnt3ZwvT";a.async=!0;a.src="https://cookiecdn.com/configs/p9qc9VwBXSqKp4mkFnt3ZwvT";document.head.appendChild(a)};d.head.appendChild(el);
+  </script>
+  <div style="display: none; visibility: hidden;">
+   <script async="null" data-id="6450" defer="defer" src="https://cdn.popupsmart.com/bundle.js">
+   </script>
+  </div>
+  <script id="" type="text/javascript">
+   (function(a,e,b,f,g,c,d){a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};c=e.createElement(f);c.async=1;c.src="https://www.clarity.ms/tag/"+g;d=e.getElementsByTagName(f)[0];d.parentNode.insertBefore(c,d)})(window,document,"clarity","script","iticmwrviq");
+  </script>
+  <script id="" src="https://static.elfsight.com/platform/platform.js" type="text/javascript">
+  </script>
+  <script id="" type="text/javascript">
+   amplitude.getInstance().init("a9f678a97b64dcd46d85d0d733fbb262");amplitude.getInstance().logEvent(google_tag_manager["rm"]["10015193"](3),google_tag_manager["rm"]["10015193"](4));
+  </script>
+  <script id="" type="text/javascript">
+   google_tag_manager["rm"]["10015193"](5)&&_cio.identify(google_tag_manager["rm"]["10015193"](6));
+  </script>
+  <script id="" type="text/javascript">
+   _cio.track(google_tag_manager["rm"]["10015193"](7),google_tag_manager["rm"]["10015193"](8));
+  </script>
+  <div class="elfsight-app-61436658-7d69-4c03-a008-1468a42061ce">
+   <div class="RootLayout__RootComponent-sc-1doisyz-0 cvBsnK eapps-line-chat-61436658-7d69-4c03-a008-1468a42061ce-custom-css-hook" data-app="eapps-line-chat" data-app-version="1.17.4" id="eapps-line-chat-61436658-7d69-4c03-a008-1468a42061ce">
+   </div>
+  </div>
+  <script id="" type="text/javascript">
+   "undefined"===typeof fbq?(!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js"),fbq("init","282987412467417"),fbq("set","agent","tmgoogletagmanager","282987412467417")):fbq("set",
+"agent","tmgoogletagmanager","282987412467417");fbq("track","PageView");
+  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=282987412467417&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <script id="" type="text/javascript">
+   !function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CEAP82RC77UA35R4LN70");a.page()}(window,document,"ttq");
+  </script>
+  <iframe aria-hidden="true" id="_hjSafeContext_72028395" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" tabindex="-1" title="_hjSafeContext">
+  </iframe>
+  <div class="portal-nest-provider__ElfsightPortalNest-sc-161fpzp-0 kiErDg eapps-line-chat-61436658-7d69-4c03-a008-1468a42061ce-custom-css-root" id="__EAAPS_PORTAL">
+   <div class="Main__Container-sc-rfigzw-0 iCNyoS">
+    <div class="Window__Container-sc-1fozq8a-0 dHxKzM">
+     <div class="FloatingWindow__Container-sc-42h84g-0 fZYca" style="inset: auto 20px 56px auto;">
+      <div class="Window__Content-sc-1fozq8a-1 kTQorS">
+       <div class="Close__Component-sc-xjtta7-0 gCBYKQ" role="button" tabindex="0">
+       </div>
+       <div class="Header__Component-sc-g402ia-0 hHkgWL">
+        <div class="Avatar__Container-sc-9uf7h8-0 fSqrex Avatar__Component-sc-15vx3xd-0 hCGYCb">
+         <div class="Avatar__Background-sc-9uf7h8-1 gJOYgw">
+          <img alt="ทีมงาน FutureSkill" class="Avatar__StyledAvatar-sc-9uf7h8-2 UobXQ" src="https://files.elfsightcdn.com/8072cd1a-6c22-4d11-8540-f1a72d1efa91/a42fb935-0002-4f87-9372-768078960ee6/picc.jpg"/>
+         </div>
+        </div>
+        <div class="Header__Info-sc-g402ia-1 cDOZBS">
+         <div class="Header__Name-sc-g402ia-2 hAjWWe">
+          ทีมงาน FutureSkill
+         </div>
+         <div class="Header__AnswerTime-sc-g402ia-3 cJImal">
+          Typically replies in minutes
+         </div>
+        </div>
+       </div>
+       <div class="Window__ChatGroup-sc-1fozq8a-2 kPnNNu">
+        <div class="ChatLayout__Component-sc-9frz4x-0 iSvpsw">
+         <div class="ChatLayout__MessageContainer-sc-9frz4x-4 jshzil">
+          <div class="ChatLayout__DotsContainer-sc-9frz4x-11 edYFii">
+           <div class="DefaultDots__Component-sc-1yojfcq-0 bkAXKk">
+            <div class="DefaultDots__ComponentInner-sc-1yojfcq-1 dhzAqG">
+             <div class="DefaultDots__Dot-sc-1yojfcq-2 hJIRvS">
+             </div>
+             <div class="DefaultDots__Dot-sc-1yojfcq-2 gQXsSA">
+             </div>
+             <div class="DefaultDots__Dot-sc-1yojfcq-2 jfIICQ">
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="ChatLayout__Message-sc-9frz4x-6 SMXEi">
+           <svg class="BubbleDetail__StyledSvg-sc-1otb0pb-0 ktVzUH" fill="currentColor" height="17" viewbox="0 0 9 17" width="9" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0.772965 3.01404C-0.0113096 1.68077 0.950002 0 2.49683 0H9V17L0.772965 3.01404Z" fill="currentColor">
+            </path>
+           </svg>
+           <div class="ChatLayout__MessageContent-sc-9frz4x-7 kmUxwb">
+            <div class="ChatLayout__MessageGroup-sc-9frz4x-10 hbYURg">
+             <div class="ChatLayout__Text-sc-9frz4x-8 bGDXJT">
+              <div>
+               สวัสดีค่ะ ทีมงาน Futureskill ยินดีให้บริการค่ะ 😊
+              </div>
+              <br/>
+              <div>
+               สอบถามข้อมูลคอร์สเรียน วิธีการเข้าใช้งานคอร์สเรียน ทักแชทเรามาได้เลยค่ะ
+              </div>
+             </div>
+             <div class="ChatLayout__TimeBottom-sc-9frz4x-9 LbOBs">
+              5:12
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="StandaloneButton__ButtonContainer-sc-1ohhn81-0 eKmxAH">
+         <button class="ButtonBase__ButtonContainer-sc-p43e7i-3 euBiGU ChatButton__DefaultButtonComponent-sc-ktpn6s-0 hkYuf" href="https://line.me/R/ti/p/@futureskill" role="button" style="border-radius: 24px; border-color: rgba(0, 0, 0, 0); width: auto; color: rgb(255, 255, 255); font-family: inherit; font-weight: bold; font-size: 16px; background-color: rgb(66, 197, 9); border-width: 0px; margin: 20px; max-width: 100%; box-shadow: rgba(0, 0, 0, 0.25) 0px 1px 0px 0px;" tabindex="0" title="Line" type="button">
+          <span class="ButtonBase__Overlay-sc-p43e7i-4 cjTloD" style="padding: 12px 27px; border-radius: calc(24px); background-color: rgba(0, 0, 0, 0);">
+           <div class="Icon__IconContainer-sc-11wrh3u-0 bygvDf ButtonBase__ButtonIcon-sc-p43e7i-0 ButtonBase__LeftIcon-sc-p43e7i-1 gMSomS ilvJjM">
+            <div>
+             <div>
+              <svg class="injected-svg" data-src="https://static.elfsight.com/icons/line.svg" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+               <path d="M23 9.933C23 4.96 18.05 1 12 1S1 5.052 1 9.933c0 4.421 3.942 8.105 9.167 8.842.366.092.825.276 1.008.552a1.9 1.9 0 0 1 0 1.014s-.092.736-.183.92c-.092.277-.184 1.106.916.553 1.192-.46 6.325-3.776 8.617-6.447C22.175 13.71 23 11.96 23 9.933ZM8.058 12.604c0 .092-.091.185-.183.185H4.758c-.091 0-.091 0-.183-.093 0 0-.092-.092-.092-.184V7.723c0-.092.092-.184.184-.184h.916c.092 0 .184.092.184.184v3.868h2.108c.092 0 .183.092.183.184v.83Zm1.925 0c0 .092-.091.185-.183.185h-.825c-.092 0-.183-.093-.183-.185v-4.88c0-.093.091-.185.183-.185h.733c.092 0 .184.092.184.184v4.881h.091Zm5.317 0c0 .092-.092.185-.183.185h-.825l-.092-.093L12 9.75v2.855c0 .092-.092.185-.183.185h-.734c-.091 0-.183-.093-.183-.185v-4.88c0-.093.092-.185.183-.185h.734l2.2 2.947V7.723c0-.092.091-.184.183-.184h.733c.092 0 .184.092.184.184v4.881h.183Zm4.217-4.052a.198.198 0 0 1-.184.184h-2.108v.83h2.108c.092 0 .184.091.184.183v.83c0 .091-.092.183-.184.183h-2.108v.83h2.108c.092 0 .184.091.184.183v.737a.198.198 0 0 1-.184.184h-3.116c-.092 0-.092 0-.184-.092 0 0-.091-.092-.091-.184V7.723c0-.092 0-.092.091-.184 0 0 .092-.092.184-.092h3.116c.092 0 .184.092.184.184v.921Z" fill-rule="evenodd">
+               </path>
+              </svg>
+             </div>
+            </div>
+           </div>
+           <span class="ButtonBase__Ellipsis-sc-p43e7i-5 dqiKFy">
+            เริ่มแชทเลย
+           </span>
+          </span>
+         </button>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="FloatingButton__FloatingButtonContainer-sc-q5md4t-0 lbvXTF" style="max-width: 556px;">
+     <button class="ButtonBase__ButtonContainer-sc-p43e7i-3 euBiGU Bubble__BubbleComponent-sc-1hq47r8-0 bzbsEU" role="button" style="border-radius: 100px; border-color: rgba(0, 0, 0, 0); color: rgb(255, 255, 255); font-family: inherit; font-weight: bold; font-size: 16px; background-color: rgb(66, 197, 9); border-width: 0px;" tabindex="0" type="button">
+      <span class="ButtonBase__Overlay-sc-p43e7i-4 cjTloD" style="padding: 10px 25px; border-radius: calc(100px); background-color: rgba(0, 0, 0, 0);">
+       <div class="Icon__IconContainer-sc-11wrh3u-0 bygvDf ButtonBase__ButtonIcon-sc-p43e7i-0 ButtonBase__LeftIcon-sc-p43e7i-1 gMSomS ilvJjM">
+        <div>
+         <div>
+          <svg class="injected-svg" data-src="https://static.elfsight.com/icons/line.svg" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+           <path d="M23 9.933C23 4.96 18.05 1 12 1S1 5.052 1 9.933c0 4.421 3.942 8.105 9.167 8.842.366.092.825.276 1.008.552a1.9 1.9 0 0 1 0 1.014s-.092.736-.183.92c-.092.277-.184 1.106.916.553 1.192-.46 6.325-3.776 8.617-6.447C22.175 13.71 23 11.96 23 9.933ZM8.058 12.604c0 .092-.091.185-.183.185H4.758c-.091 0-.091 0-.183-.093 0 0-.092-.092-.092-.184V7.723c0-.092.092-.184.184-.184h.916c.092 0 .184.092.184.184v3.868h2.108c.092 0 .183.092.183.184v.83Zm1.925 0c0 .092-.091.185-.183.185h-.825c-.092 0-.183-.093-.183-.185v-4.88c0-.093.091-.185.183-.185h.733c.092 0 .184.092.184.184v4.881h.091Zm5.317 0c0 .092-.092.185-.183.185h-.825l-.092-.093L12 9.75v2.855c0 .092-.092.185-.183.185h-.734c-.091 0-.183-.093-.183-.185v-4.88c0-.093.092-.185.183-.185h.734l2.2 2.947V7.723c0-.092.091-.184.183-.184h.733c.092 0 .184.092.184.184v4.881h.183Zm4.217-4.052a.198.198 0 0 1-.184.184h-2.108v.83h2.108c.092 0 .184.091.184.183v.83c0 .091-.092.183-.184.183h-2.108v.83h2.108c.092 0 .184.091.184.183v.737a.198.198 0 0 1-.184.184h-3.116c-.092 0-.092 0-.184-.092 0 0-.091-.092-.091-.184V7.723c0-.092 0-.092.091-.184 0 0 .092-.092.184-.092h3.116c.092 0 .184.092.184.184v.921Z" fill-rule="evenodd">
+           </path>
+          </svg>
+         </div>
+        </div>
+       </div>
+       <span class="ButtonBase__Ellipsis-sc-p43e7i-5 dqiKFy">
+        <div class="BubbleContent__NotificationBadge-sc-1hx9obd-0 BjdNZ">
+        </div>
+        <span class="BubbleContent__BubbleContentText-sc-1hx9obd-1">
+         แชทกับเรา
+        </span>
+       </span>
+      </span>
+     </button>
+    </div>
+   </div>
+  </div>
+  <div>
+   <div class="RootLayout__RootComponent-sc-1doisyz-0 cvBsnK eapps-line-chat-61436658-7d69-4c03-a008-1468a42061ce-custom-css-hook" id="portal-61436658-7d69-4c03-a008-1468a42061ce">
+   </div>
+  </div>
+  <div id="popupsmart-container-199262" style="position:relative; z-index: 99999999999999999999;">
+   <span>
+   </span>
+  </div>
+  <script id="" type="text/javascript">
+   "undefined"===typeof fbq?(!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js"),fbq("init","282987412467417"),fbq("set","agent","tmgoogletagmanager","282987412467417")):fbq("set",
+"agent","tmgoogletagmanager","282987412467417");fbq("track","PageView");
+  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=282987412467417&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <script id="" type="text/javascript">
+   !function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CEAP82RC77UA35R4LN70");a.page()}(window,document,"ttq");
+  </script>
+  <script src="/_next/static/chunks/pages/index-7341133049114ca3.js">
+  </script>
+  <script src="/_next/static/chunks/0c428ae2-86b64fc1a3f5c6ce.js">
+  </script>
+  <script src="/_next/static/chunks/98ea7ec2-743b0ca52d9ee24c.js">
+  </script>
+  <script src="/_next/static/chunks/95b64a6e-518ec7e267df743b.js">
+  </script>
+  <script src="/_next/static/chunks/1911-db8da293d189ff95.js">
+  </script>
+  <script src="/_next/static/chunks/719-5f17f9d9fbb348cf.js">
+  </script>
+  <script src="/_next/static/chunks/1651-161b00a7bbdf9b58.js">
+  </script>
+  <script src="/_next/static/chunks/8717-72d8a1786f303ab0.js">
+  </script>
+  <script src="/_next/static/chunks/9725-e20cd7f9bc6d874d.js">
+  </script>
+  <script src="/_next/static/chunks/4492-b8951f9e01daa465.js">
+  </script>
+  <script src="/_next/static/chunks/pages/yearly-80de6ab56c37489a.js">
+  </script>
+  <script src="/_next/static/chunks/pages/instructor/detail/%5BinstructorId%5D-e324b3f87f53b427.js">
+  </script>
+ </body>
+</html>
